@@ -1,31 +1,41 @@
 # Advanced Scripting for Beijer iX Developer (and how to not loose your Object Oriented Mind)
 
 I recently got my first experience with development for the iX platform.
-This was my first time, writing C# code for an embedded system and the .NET compact framework.
-Having some experience with test driven development (TDD), using Visual Studio, I natrually did not want to throw
-everything over board and spent quite some time initally to find a good workflow and project setup, which I try to document in this post.
+This was my first time, writing C# code for an embedded system and the .NET
+Compact Framework 3.5 (.NET CF).
+Having some experience with test driven development (TDD), using Visual Studio
+(VS), I natrually did not want to throw everything over board and spent quite
+some time initally to find a good workflow and project setup, which I try to
+document in this post.
 This is by no means the ultimate or only way to do TDD for .NET compact framework 3.5 in Visual Studio, it's merely what worked well for me.
 If you have some additional input, I am happy to improve both, my workflow and this blog post with your suggestions :).
 
-My experience with this setup is specific to Beijer iX Developer. It might be that parts of this post are also applicable to development for similar platforms with .NET CF 3.5 as well.
+My experience with this setup is specific as an alternative to working in Beijer
+iX Developer (iX). Parts of this post might be helpful for similar platforms
+with .NET CF as well.
 
-## Why do TDD and why use Visual Studio over iX Developer in the first place?
+## Why do TDD and why use Visual Studio over iX Developer?
 
-While I won't go into details on why I prefer a TDD approach as soon as the logic in the C# scripts gets more complex than mapping some UI fields to tags, here is a short list of things that will make your life so much easier as you don't have to touch the UI.
+This post won't go into details on why a TDD approach should be prefered as soon
+as the logic of the C# scripts gets a  big more complex than mapping values to
+UI fields.
+Robert C. Martin gives an excellent introduction and motivation for TDD in
+[this presentation by Robert C. Martin](https://www.youtube.com/watch?v=qkblc5WRn-U).
 
-* It is probably free to use for you
+However, there are many advantages of using VS over iX if you are using TDD or
+not. Here is a list of features that will make one's life much easier
 
 * Navigation through files, auto completion
 
-* Refactoring of Visual Studio
-
 * Extension support, such as VsVim
 
-* Support for dark mode :new_moon_with_face:
+* It comes with a lot of useful refactoring tools (even more if you are using resharper)
 
-* You could even use JetBrains resharper
+* Native dark mode :new_moon_with_face:
 
-As a rough introduction and motivation for TDD I find [this presentation by Robert C. Martin](https://www.youtube.com/watch?v=qkblc5WRn-U) excellent.
+* And of course the community version is free to use and works just fine.
+
+* Well, and of course the excellent test runner.
 
 ## Limitations of Beijer iX Developer compared to .NET compact framework 3.5
 
@@ -40,13 +50,17 @@ As a rough introduction and motivation for TDD I find [this presentation by Robe
 The biggest pitfall when developing your code for Beijer in Visual Studio and then compiling it in iX developer is to not setup your Visual Studio project correctly and end up using features and libraries that are not supported by the compact framework.
 Officially support for .NET CF development ends with Visual Studio 2008 but there is a way to configure your project for later versions as well.
 I used [this setup guide](https://gist.github.com/skarllot/4953ddb6e23d8a6f0816029c4155997a) to configure my project in Visual Studio 2019 without problems.
+Apparently the download of Power Toys is not available anymore [use the web archive](https://web.archive.org/web/*/https://download.microsoft.com/download/f/a/c/fac1342d-044d-4d88-ae97-d278ef697064/NETCFv35PowerToys.msi) to access it anyways.
 
 ## How to structure your project
 
-* Script files need to be created in iX Developer so that you have all the files.
-
-* Try not to make changes in VS and iX simultaneously to prevent overriding uncommited changes.
-From my experience so far I'd suggest to only open iX every once in a while, if you need to lookup a tag name or make UI changes.
+There are a few caveats when it comes to creating and structuring the script
+files.
+First of all, new script files must be created in iX, as there are two files
+that will be created alongside the `MyScriptName.Script.cs` file.
+As soon as you created the file it is recommended to close iX immediately so
+that one does not accidentally make changes and override the process from VS.
+Open it again if you need to make changes to the tags or the UI.
 
 * What is going on with internal classes in iX developer and what is generated automatically as partial classes for script files?
 
@@ -60,6 +74,99 @@ From my experience so far I'd suggest to only open iX every once in a while, if 
 
 ## What to do with tags
 
+The logic that you implement needs to be connected to the tags that you can use in the UI elements in some way.
+One solution is to work fully stateless and apply the effects of your logic in
+the generated module that has access to the tags.
+The option I went for is to create a `VariableReference` structure and pass
+those to the business logic to write to it directly.
+This has the advantage that I can easily test the effects of different methods
+on each other and can even simulate an entire sequence of function calls.
+
 ### VariableReference
 
-### Helper functions
+I created the class `VariableReference` that has a `Get` and `Set` method to
+which I can then map the respective functions of the tags.
+
+
+```C#
+internal class VariableReference<T> {
+	public Func<T> Get { get; private set; }
+	public Action<T> Set { get; private set; }
+
+	public VariableReference(Func<T> getter, Action<T> setter) {
+		Get = getter;
+		Set = setter;
+	}
+}
+```
+
+Using this class one can then create a class containing all the tags needed in
+the business logic.
+
+```C#
+internal class MyBusinessLogicTags {
+	public readonly VariableReference<string> SomeTagName;
+	public readonly VariableReference<bool> SomeOtherTagName;
+
+	public MyBusinessLogicTagNames(
+		VariableReference<string> someTagName = null,
+		VariableReference<bool> someOtherTagName = null
+	) {
+		SomeTagName = someTagName;
+		SomeOtherTagName = someOtherTagName;
+	}
+}
+```
+
+### Instantiate
+
+In the generated script module, which has access to the tags, I will instantiate
+a tag container that maps the read and write operations on the tags to the
+`VariableReferences`. Here are some examples:
+
+```C#
+public partial class MyModule {
+	static MyBusinessLogicTags myTags = new MyBusinessLogicTags(
+		new VariableReference<string>(
+			() => Globals.Tags.SomeTagName.Value,
+			val => { Globals.Tags.SomeTagName.Value = val; }),
+		new VariableReference<bool>(
+			() => Globals.Tags.SomeOtherTagName.Value,
+			val => { Globals.Tags.SomeOtherTagName.SetTag(); })
+	);
+}
+```
+
+This tag container is then passed as a parameter to the constructor of my
+business logic module.
+
+### Helper functions for testing
+
+For testing purposes you should create something similar.
+
+```C#
+class Helpers {
+	class TagContainer {
+		public string someTagName;
+		public bool someOtherTagName;
+
+		public TagContainer() {
+			someTagName = "";
+			someOtherTagName = false;
+		}
+	}
+
+	public static MyBusinessLogicTags CreateTags() {
+		var tagContainer = new TagContainer();
+
+		return new MyBusinessLogicTags(
+			someTagName: new VariableReference<string>(
+				() => tagContainer.someTagName,
+				val => { tagContainer.someTagName = val; }),
+			someOtherTagName: new VariableReference<string>(
+				() => tagContainer.someOtherTagName,
+				val => { tagContainer.someOtherTagName = val; })
+		);
+	}
+}
+```
