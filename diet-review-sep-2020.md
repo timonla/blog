@@ -20,7 +20,7 @@ is simply not detailed enough.
 
 (I will try to put slightly more effort into making the food look appealing in the photos.)
 
-I will give some more details on the daily decisions that I make in the Loogbook but as a start here is a concise overview.
+I will give some more details on the daily decisions that I make in the logbook but as a start here is a concise overview.
 
 #### What labels do I assign my diet?
 
@@ -30,6 +30,7 @@ This list is by no means *static* or *final* but at the time of writing this:
 * I avoid gluten if possible
 * I don't consume alcohol (apart from my vitamin V12 drops)
 * I avoid coffein
+* I avoid salt if possible
 * My diet is high carb / low fat
 
 If you are interested in some more inspiration on similar diets I can highly recomment:
@@ -56,6 +57,9 @@ super accurate when it comes to differences of single grams.
 So I will weigh my spice glasses once at the start of the week and once at the end, to get a week average the price, I will NOT
 log the grams of spices per meal in cronometer.
 
+I will have to weigh a lot of foods twice as, for a banana for example, I want to track the calories of the part that ate,
+but the price of the banana including its peel.
+
 ## Disclaimer
 
 As of writing this, I am working in the home office.
@@ -64,6 +68,13 @@ However, considering the situation in the world right now, it's probably not as 
 
 I usually exercise quite a lot and burn between 3000 and 4000 kcal a day.
 The portion size will at times seem unreasonable.
+
+I am not a great cook and don't have a lot of recipies to share.
+I think of all the thinks I would like to eat and then assemble a dish of them.
+For that I try to understand, through a lot of experiments, how certain ingredients will behave while cooking
+and how to use that to my advantage.
+This has worked fine for me in the past years.
+I never find myself not finishing a meal, since when it's prepared with only nice ingredients, probably the end result is also nice :)
 
 ## Logbook
 
@@ -87,6 +98,10 @@ Hence, the bottle will last for 340 days, resulting in **0.06 EUR/0.67 SEK** per
 I am using these [Iodine capsules](https://www.apotea.se/helhetshalsa-eko-jod-100-kapslar).
 One container contains 100 capsules of which I consume 1 per day (150 mcg)
 Hence, the bottle will last for 100 days, resulting in *0.15 EUR/1.55 SEK** per day.
+
+I have tried putting dulse in my smoothies before but find that a tea spoon of that is capable of ruining the taste of a 1 liter smoothie.
+I did it anyways but could not aquire the taste of it, even after having used it for over a year.
+The capsules are much easier to use.
 
 ### Tuesday
 
