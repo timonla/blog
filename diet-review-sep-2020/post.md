@@ -243,7 +243,7 @@ Snacking on some mais cakes, while doing the dishes and soaking some legumes.
 |||Banana|140|209|||
 |||Peanut butter|34|34||
 |||Cinamon|||||
-|13:50|1346|Lunch|||||
+|12:37|1346|Lunch|||||
 |||Frozen brokkoli|142|142|||
 |||Frozen spinach|150|150|||
 |||Red thai rice|167|167|||
@@ -253,7 +253,8 @@ Snacking on some mais cakes, while doing the dishes and soaking some legumes.
 |||Red onion|26|33|||
 |||Garlic|4|7|||
 |||Potatoe starch|8|8|||
-|||Sesame seeds|16|16|||
+|||Sesame seeds|8|8|||
+|12:37|350|Water|||||
 
 #### 7:13 Coconut oil
 
@@ -266,6 +267,12 @@ I also rinsed the sprouts.
 #### 10:27 Breakfast
 
 Same as yesterday, slightly less oats because slightly less hungry.
+
+#### 12:37 Lunch
+
+I got my lunch out of the fridge.
+Most times I don't bother to get it out of the lunch box and heat it up.
+I just wait a bit and start eating.
 
 ### Wednesday
 
