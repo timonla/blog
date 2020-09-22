@@ -76,6 +76,10 @@ and how to use that to my advantage.
 This has worked fine for me in the past years.
 I never find myself not finishing a meal, since when it's prepared with only nice ingredients, probably the end result is also nice :)
 
+I am neither a medically or nutritionally trained.
+What I document here is simply my experience and the decisions I make for me personally.
+Please take this as an inspiration and perform drastic diet changes after consulting someone quallified or at your own risk.
+
 ## Logbook
 
 ### Supplements
@@ -121,7 +125,8 @@ The capsules are much easier to use.
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
 |7:30|12|Coconut oil||12|||
-|7:50|961|Lemon juice|20|Half a lemon|||
+|7:50|961|Lemon water|||||
+|||Lemon juice|20|Half a lemon|||
 |||Pukka Peppermint&Licorice||One bag|||
 |9:40|918|Oat meal|||||
 |||Oats|114|114|||
@@ -167,6 +172,7 @@ This is also the time I take my supplements, so I don't forget them.
 
 #### 9:40 Breakfast
 
+TODO: write about the different kinds of grains that you can use (cooked oats, overnight oats, spelt flakes, rice flakes, cornflakes, buckwheat cooked, buckwheat sprouted).
 I also rinsed some legumes that I left to soak 12 hours earlier.
 They will now sprout for 3 days, before I can eat them.
 30 lentils
@@ -210,6 +216,10 @@ Everything that does not fit into the lunch boxes has to be eaten on the same da
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
+|7:13|14|Coconut oil||14|||
+|7:40|973|Lemon water|||||
+|||Lemon juice|19|Half a lemon|||
+|||Pukka Peppermint&Licorice||One bag|||
 |13:50|1346|Lunch|||||
 |||Frozen brokkoli|142|142|||
 |||Frozen spinach|150|150|||
@@ -221,6 +231,12 @@ Everything that does not fit into the lunch boxes has to be eaten on the same da
 |||Garlic|4|7|||
 |||Potatoe starch|8|8|||
 |||Sesame seeds|16|16|||
+
+#### 7:13 Coconut oil
+
+#### 7:40 Lemon juice
+
+I also rinsed the sprouts.
 
 ### Wednesday
 
