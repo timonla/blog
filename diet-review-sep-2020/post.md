@@ -1,4 +1,4 @@
-# Down to Earth - Whole Foods Plant Based Diet - Review
+# Down to Earth - Whole Foods Plant Based Diet
 
 My diet is a very important topic for me and as such I am willing to experiment a lot with it and throw everything,
 I thought I knew, overboard if I obtain some new information.
@@ -171,25 +171,39 @@ The first thing I usually have in the morning is some lemon water.
 Some times I just dring the lemon juice with water, sometimes I mix it with some herbal infusion.
 This is also the time I take my supplements, so I don't forget them.
 
-![Monday lunch](assets/monday-lemon.jpg)
+![Lemon water](assets/monday-lemon.jpg)
 
 #### 9:40 Breakfast
 
 TODO: write about the different kinds of grains that you can use (cooked oats, overnight oats, spelt flakes, rice flakes, cornflakes, buckwheat cooked, buckwheat sprouted).
-I also rinsed some legumes that I left to soak 12 hours earlier.
-They will now sprout for 3 days, before I can eat them.
-30 lentils
-30 sweet lupines
-20 chickpeas
 
-![Monday lunch](assets/monday-breakfast.jpg)
+![Breakfast](assets/monday-breakfast.jpg)
+
+Spruting legumes and other seeds is a great way to get something fresh into your diet without
+having to invest in, in my option, pointless iceberg lettuce or something similar.
+It takes a bit of planning, as you will need to know a few days in advance, what you want to eat.
+However, if you end up not eating them, they can be stored in the fridge for a few days and stop
+growing.
+On Sunday evening I soaked 30g of green lentils, 30g of sweet lupines, 20g of chickpeas
+(all dry weights).
+They will all take about 3 days, until they have my prefered size.
+
+![Soaked legumes](assets/monay-soaked-beans.jpg)
+
+If you are interested in sprouting your own beans, it's super easy to get started.
+All you need are some big jars and some nets.
+I cannot emphasize enough how much of a waste of money it is to buy sprouting kits!
+Just buy mason jars and the lids.
+Even if you later decide sprouting is not for you, they can be of great use in the kitchen.
+
+TODO: add links to jars and lids
 
 #### 13:28 Snack
 
 I started preparing lunch and needed to eat something in between.
 I like to snack on dried fruits and nuts.
 
-![Monday lunch](assets/monday-snack.jpg)
+![Snack while preparing lunch](assets/monday-snack.jpg)
 
 #### 13:50 Lunch
 
@@ -217,14 +231,41 @@ Everything that does not fit into the lunch boxes has to be eaten on the same da
 
 #### 20:17 Soaking some beans
 
-Snacking on some mais cakes, while doing the dishes and soaking some legumes.
+Snacking on some mais cakes, while doing the dishes and soaking some legumes and sunflower seeds.
+Rice and mais cakes fullfill two purposes in my kitchen.
+Firstly, they are a great, quick and gluten free alternative to bread.
 
-41 green lentils
-40 sweet lupines
-21 red lentils
-20 sunflower seeds
+A few goto toppings are:
+
+* Peanut butter, cinamon and bananas or dates
+* Peanut butter, pickles and mustard
+* Bean spread, onions and pickles
+* Some condiment, tofu, onions, pickles
+
+... I really like pickles but they can be replaced with Sauerkraut of kimchi as well.
+
+Apart from that, rice and mais cakes are a nice, be it more bland, chips like snack which you
+can even take with you if you are going for a long walk.
+You can be sure that I will have a pack of them in my bagpack any time I go out and am uncertain
+how long it is to the next meal or if the food will be good. (Just make sure that you have enough
+water with you :desert:)
+
+![Mais cakes](assets/monday-evening-snack.jpg)
+
+I simply wash the legumes and seeds in the glas before filling the entire container with water
+and leaving it to soak for 12 hours.
+Soaking times depend on what you want to sprout but 12 hours is long enough for most plants.
+In the glas there are 41g of green lentils, 40g of sweet lupines, 21g of red lentils
+and 20g of sunflower seeds (all dry weights).
+
+![Soaking legumes & sunflower seeds](assets/monday-evening-beans.jpg)
 
 #### 22:23 Going to bed
+
+I try to avoid drinking water the last hour before going to bed and then will have one glas
+immediately before lying down.
+Like that I avoid having to get up to go to the bathroom at night and don't wake up completely
+dehydrated.
 
 ### Tuesday
 
@@ -262,15 +303,21 @@ I go tup at 7:13
 
 #### 7:40 Lemon juice
 
-I also rinsed the sprouts.
+Lemon water same as on Monday :)
+
+![Lemon water](assets/tuesday-lemon.jpg)
+
+I also rinsed the legumes I soaked on Monday and Sunday evening.
 
 #### 10:27 Breakfast
 
 Same as yesterday, slightly less oats because slightly less hungry.
 
+![Beakfast](assets/tuesday-breakfast.jpg)
+
 #### 12:37 Lunch
 
-I got my lunch out of the fridge.
+I got my lunch out of the fridge and sprinkled some nutritional yeast and sesame seeds on top.
 Most times I don't bother to get it out of the lunch box and heat it up.
 I just wait a bit and start eating.
 
