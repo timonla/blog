@@ -153,6 +153,9 @@ The capsules are much easier to use.
 |||Sesame seeds|16|16|||
 |13:50|350|Water|||||
 |16:43|350|Water|||||
+|20:17|60|Mais Cakes|60|60|||
+|20:17|350|Water|||||
+|22:23|350|Water|||||
 
 #### 7:30 Coconut oil
 
@@ -212,6 +215,17 @@ Everything that does not fit into the lunch boxes has to be eaten on the same da
 
 ![Monday lunch](assets/monday-lunch.jpg)
 
+#### 20:17 Soaking some beans
+
+Snacking on some mais cakes, while doing the dishes and soaking some legumes.
+
+41 green lentils
+40 sweet lupines
+21 red lentils
+20 sunflower seeds
+
+#### 22:23 Going to bed
+
 ### Tuesday
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
@@ -220,6 +234,15 @@ Everything that does not fit into the lunch boxes has to be eaten on the same da
 |7:40|973|Lemon water|||||
 |||Lemon juice|19|Half a lemon|||
 |||Pukka Peppermint&Licorice||One bag|||
+|10:27|803|Oat meal|||||
+|||Oats|104|104|||
+|||Flax seeds|32|32|||
+|||Coconut flakes|17|17|||
+|||Cocoa powder|6|6|||
+|||Frozen wild blueberries|94|94|||
+|||Banana|140|209|||
+|||Peanut butter|34|34||
+|||Cinamon|||||
 |13:50|1346|Lunch|||||
 |||Frozen brokkoli|142|142|||
 |||Frozen spinach|150|150|||
@@ -234,9 +257,15 @@ Everything that does not fit into the lunch boxes has to be eaten on the same da
 
 #### 7:13 Coconut oil
 
+I go tup at 7:13
+
 #### 7:40 Lemon juice
 
 I also rinsed the sprouts.
+
+#### 10:27 Breakfast
+
+Same as yesterday, slightly less oats because slightly less hungry.
 
 ### Wednesday
 
@@ -262,9 +291,11 @@ I also rinsed the sprouts.
 
 ### Sunday
 
-### Review
+### Results
 
 ### Conclusions
+
+Would be good to track time in the kitchen and actual time eating the next time.
 
 ## New goals
 
