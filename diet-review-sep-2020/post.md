@@ -296,6 +296,21 @@ dehydrated.
 |||Potatoe starch|8|8|||
 |||Sesame seeds|8|8|||
 |12:37|350|Water|||||
+|15:30|794|Isotonic drink|||||
+|||Water|750||||
+|||Iso pulver|42|42|
+|16:57|730|Water|||||
+|17:30|25|Mais cakes|25|25|||
+|18:10|2232|Soup|||||
+|||Potatoes|632|743|||
+|||Leek|328|362|||
+|||Beet roots|180|197|||
+|||Garlic|13|16|||
+|||Canned Tomatoes|400|400|||
+|||Vegetable broth|5|5|||
+|||Cooked white beans|177|||
+|||Pumpkin seeds|40|40|||
+|||Bikarbonat|4|4|||
 
 #### 7:13 Coconut oil
 
@@ -320,6 +335,36 @@ Same as yesterday, slightly less oats because slightly less hungry.
 I got my lunch out of the fridge and sprinkled some nutritional yeast and sesame seeds on top.
 Most times I don't bother to get it out of the lunch box and heat it up.
 I just wait a bit and start eating.
+
+#### 15:30 Isotonic drink
+
+![Isotonic drink](assets/tuesday-iso.jpg)
+
+#### 17:18 Dinner preparations
+
+Cut everything, put it into the pot and boil until the potatoes are good but not too soft.
+The beet root will be still a bit crunchy.
+Eating raw beet root is not for the light hearted.
+I challenge you to try to eat a big beet root raw.
+So make sure that you slice them in really small chunks.
+Basil, ginger, tumeric, vegetable broth,
+Add bikarbonat so that the tomatoes are not too sour.
+Roast the pumpkin seeds.
+Garnish with seeds + nutritional yeast.
+
+I got impatient and ate a few mais cakes :)
+
+![Mais cakes](assets/tuesday-snack.jpg)
+
+![Potatoe Soup](assets/tuesday-dinner-total.jpg)
+
+#### 18:10 Dinner 1/4
+
+I don't have this big a dish so I'll split it up in 4 portions like this, that I will eat during the evening.
+
+![Dinner one portion](assets/tuesday-dinner-single.jpg)
+
+#### 18:50 Dinner 2/4
 
 ### Wednesday
 
