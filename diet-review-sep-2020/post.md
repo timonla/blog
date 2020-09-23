@@ -159,6 +159,8 @@ The capsules are much easier to use.
 
 #### 7:30 Coconut oil
 
+![Lemon water](assets/monday-lemon.jpg)
+
 I got up at 7:30.
 The first thing, when I get out of bed, is always to clean my tongue and pull some coconut
 oil through my teeth.
@@ -171,13 +173,11 @@ The first thing I usually have in the morning is some lemon water.
 Some times I just dring the lemon juice with water, sometimes I mix it with some herbal infusion.
 This is also the time I take my supplements, so I don't forget them.
 
-![Lemon water](assets/monday-lemon.jpg)
-
 #### 9:40 Breakfast
 
-TODO: write about the different kinds of grains that you can use (cooked oats, overnight oats, spelt flakes, rice flakes, cornflakes, buckwheat cooked, buckwheat sprouted).
-
 ![Breakfast](assets/monday-breakfast.jpg)
+
+TODO: write about the different kinds of grains that you can use (cooked oats, overnight oats, spelt flakes, rice flakes, cornflakes, buckwheat cooked, buckwheat sprouted).
 
 Spruting legumes and other seeds is a great way to get something fresh into your diet without
 having to invest in, in my option, pointless iceberg lettuce or something similar.
@@ -200,12 +200,14 @@ TODO: add links to jars and lids
 
 #### 13:28 Snack
 
+![Snack while preparing lunch](assets/monday-snack.jpg)
+
 I started preparing lunch and needed to eat something in between.
 I like to snack on dried fruits and nuts.
 
-![Snack while preparing lunch](assets/monday-snack.jpg)
-
 #### 13:50 Lunch
+
+![Monday lunch](assets/monday-lunch.jpg)
 
 Even while working from home I usually cook one meal that I can have for lunch three days in a row to save some time in the kitchen.
 This week this meal is a rice dish (eating lots of rice is a recurring theme in my diet :)) with some vegetables in a coconut milk sauce.
@@ -227,9 +229,9 @@ The portions are not exactly equally large which is due to that I'd rather prepa
 sauce than too little, because dry food is the work of the devil.
 Everything that does not fit into the lunch boxes has to be eaten on the same day.
 
-![Monday lunch](assets/monday-lunch.jpg)
-
 #### 20:17 Soaking some beans
+
+![Mais cakes](assets/monday-evening-snack.jpg)
 
 Snacking on some mais cakes, while doing the dishes and soaking some legumes and sunflower seeds.
 Rice and mais cakes fullfill two purposes in my kitchen.
@@ -249,8 +251,6 @@ can even take with you if you are going for a long walk.
 You can be sure that I will have a pack of them in my bagpack any time I go out and am uncertain
 how long it is to the next meal or if the food will be good. (Just make sure that you have enough
 water with you :desert:)
-
-![Mais cakes](assets/monday-evening-snack.jpg)
 
 I simply wash the legumes and seeds in the glas before filling the entire container with water
 and leaving it to soak for 12 hours.
@@ -311,6 +311,8 @@ dehydrated.
 |||Cooked white beans|177|||
 |||Pumpkin seeds|40|40|||
 |||Bikarbonat|4|4|||
+|19:53|350|Water|||||
+|23:52|350|Water|||||
 
 #### 7:13 Coconut oil
 
@@ -318,19 +320,22 @@ I go tup at 7:13
 
 #### 7:40 Lemon juice
 
-Lemon water same as on Monday :)
-
 ![Lemon water](assets/tuesday-lemon.jpg)
+
+Lemon water same as on Monday :)
 
 I also rinsed the legumes I soaked on Monday and Sunday evening.
 
 #### 10:27 Breakfast
 
-Same as yesterday, slightly less oats because slightly less hungry.
-
 ![Beakfast](assets/tuesday-breakfast.jpg)
 
+Same as yesterday, slightly less oats because slightly less hungry.
+(And I put the coconut flakes on top because I find it looks more appealing in the photo :P)
+
 #### 12:37 Lunch
+
+![Lunch](assets/tuesday-lunch.jpg)
 
 I got my lunch out of the fridge and sprinkled some nutritional yeast and sesame seeds on top.
 Most times I don't bother to get it out of the lunch box and heat it up.
@@ -342,35 +347,61 @@ I just wait a bit and start eating.
 
 #### 17:18 Dinner preparations
 
+![Potatoe Soup](assets/tuesday-dinner-total.jpg)
+
 Cut everything, put it into the pot and boil until the potatoes are good but not too soft.
 The beet root will be still a bit crunchy.
 Eating raw beet root is not for the light hearted.
 I challenge you to try to eat a big beet root raw.
 So make sure that you slice them in really small chunks.
-Basil, ginger, tumeric, vegetable broth,
+Basil, ginger, tumeric, vegetable broth, smoked paprika
 Add bikarbonat so that the tomatoes are not too sour.
 Roast the pumpkin seeds.
-Garnish with seeds + nutritional yeast.
+Garnish with pumpkin seeds + nutritional yeast.
 
 I got impatient and ate a few mais cakes :)
 
 ![Mais cakes](assets/tuesday-snack.jpg)
 
-![Potatoe Soup](assets/tuesday-dinner-total.jpg)
+![Frozen beans](assets/tuesday-frozen-beans.jpg)
 
 #### 18:10 Dinner 1/4
 
-I don't have this big a dish so I'll split it up in 4 portions like this, that I will eat during the evening.
-
 ![Dinner one portion](assets/tuesday-dinner-single.jpg)
 
+I don't have this big a dish so I'll split it up in 4 portions like this, that I will eat during the evening.
+
 #### 18:50 Dinner 2/4
+
+#### 19:53 Dinner 3/4
+
+#### 20:27 Dinner 4/4
+
+#### 23:52 Going to bed
+
+Three portions would have been ideal.
+The last one felt kind of forced.
 
 ### Wednesday
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|13:50|1116|Lunch|||||
+|7:28|14|Coconut oil||14||||
+|7:55|979|Lemon water|||||
+||33|Lemon juice|33|Half a lemon|||
+|||Peppermint tea|One bag|||
+|9:50|773|Oat meal|||||
+|||Oats|98|98|||
+|||Flax seeds|38|38|||
+|||Coconut flakes|16|16|||
+|||Cocoa powder|7|7|||
+|||Frozen wild blueberries|65|65|||
+|||Banana|80|120|||
+|||Peanut butter|32|32|||
+|||Frozen mango|87|87|||
+|||Cinamon|||||
+|11:40|350|Water|||||
+|13:58|1116|Lunch|||||
 |||Frozen brokkoli|142|142|||
 |||Frozen spinach|150|150|||
 |||Red thai rice|167|167|||
@@ -380,7 +411,57 @@ I don't have this big a dish so I'll split it up in 4 portions like this, that I
 |||Red onion|26|33|||
 |||Garlic|4|7|||
 |||Potatoe starch|8|8|||
-|||Sesame seeds|16|16|||
+|||Cashew nuts|19|19|||
+|15:50|350|Water|||||
+|17:46|350|Water|||||
+|17:55|747|Smoothie|||||
+|||Banana|137|214|||
+|||Coconut flakes|23|23|||
+|||Frozen mango|161|161|||
+|||Frozen banana|126|I have to take a guess here|||
+
+#### 7:28 Coconut oil
+
+#### 7:55 Lemon water
+
+![Lemon water](assets/wednesday-lemon.jpg)
+
+Today with peppermint tea.
+Also rinsed the sprouts.
+
+#### 9:50 Breakfast
+
+![Oat meal](assets/wednesday-breakfast.jpg)
+
+Not really different from the other days, except that I added some frozen mango instead of a part of the berries and banana.
+
+#### 13:58 Lunch
+
+![Lunch](assets/wednesday-lunch.jpg)
+
+#### 15:55 - 17:00 Took a nap
+
+#### 17:55 Smoothie
+
+![Smoothie](assets/wednesday-smoothie.jpg)
+
+In recent years I have cut down on the amount of bananas I eat.
+These days I mainly eat them in my oat meal, on bike rides or in smoothies.
+It's good practice to always have a large amount of bananas at your disposal.
+You will be able to eat them when they are at their sweetest and if they at some point get too ripe, you can just freeze them
+in smaller pieces.
+Frozen bananas are excellent for smoothies or nice cream.
+Also you can be sure to always have a *banana for size* at hand, if you take a photo of a big spider or something.
+
+Well, making a smoothie is not exactly science.
+Put all the stuff in the blender and blend :)
+With so much frozen stuff, it's important to put the unfrozen stuff at the bottom and choose the exact right water temperature.
+
+![Banana stash](assets/bananas-old-days.jpg)
+
+![Frozen banana](assets/wednesday-frozen-banana.jpg)
+
+#### ? Going to bed
 
 ### Thursday
 
