@@ -137,7 +137,7 @@ The capsules are much easier to use.
 |||Banana|149|230|||
 |||Peanut butter|31|31||
 |||Cinamon|||||
-|13:28|918|Snack|||||
+|13:28|63|Snack|||||
 |||Raisin|47|47|||
 |||Walnuts|16|16|||
 |13:50|1293|Lunch|||||
@@ -388,7 +388,7 @@ The last one felt kind of forced.
 |---|---|---|---|---|---|---|
 |7:28|14|Coconut oil||14||||
 |7:55|979|Lemon water|||||
-||33|Lemon juice|33|Half a lemon|||
+|||Lemon juice|33|Half a lemon|||
 |||Peppermint tea|One bag|||
 |9:50|773|Oat meal|||||
 |||Oats|98|98|||
@@ -419,6 +419,15 @@ The last one felt kind of forced.
 |||Coconut flakes|23|23|||
 |||Frozen mango|161|161|||
 |||Frozen banana|126|I have to take a guess here|||
+|20:38|244|Sprouts|||||
+||Chickpea sprouts|20|20||
+||Sweet lupine sprouts|30|30||
+||Green lentil sprouts|30|30||
+||Tamari|10|10||
+||PiriPiri|2|2||
+|20:38|350|Water|||||
+|21:38|50|Mais cakes|50|50|||
+||350|Water
 
 #### 7:28 Coconut oil
 
@@ -460,6 +469,19 @@ With so much frozen stuff, it's important to put the unfrozen stuff at the botto
 ![Banana stash](assets/bananas-old-days.jpg)
 
 ![Frozen banana](assets/wednesday-frozen-banana.jpg)
+
+#### 21:38 Sprouts
+
+![Sprouts](assets/wednesday-sprouts.jpg)
+
+Also soaked some new sprouts.
+50g of green lentils and 50g of sweet lupines (all dry weights).
+
+![](assets/wednesday-soaking.jpg)
+
+#### 21:38 Mais cakes
+
+![Mais cakes](assets/wednesday-snack.jpg)
 
 #### ? Going to bed
 
