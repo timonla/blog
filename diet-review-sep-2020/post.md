@@ -111,7 +111,7 @@ The capsules are much easier to use.
 
 |Spice|Start weight in g|End weight in g|Delta in g|Price EUR|Price SEK|
 |---|---|---|---|---|---|
-|Cinamon|189|||||
+|Cinnamon|189|||||
 |Nutritional Yeast|591|||||
 |Chili|288|||||
 |Coriander|296|||||
@@ -120,11 +120,11 @@ The capsules are much easier to use.
 |Smoked Paprika|377|||||
 |Basil|216|||||
 
-### Monday
+### Monday 21.09.2020
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|7:30|12|Coconut oil||12|||
+|7:30||Coconut oil||12|||
 |7:50|961|Lemon water|||||
 |||Lemon juice|20|Half a lemon|||
 |||Pukka Peppermint&Licorice||One bag|||
@@ -136,7 +136,7 @@ The capsules are much easier to use.
 |||Frozen wild blueberries|113|113|||
 |||Banana|149|230|||
 |||Peanut butter|31|31||
-|||Cinamon|||||
+|||Cinnamon|||||
 |13:28|63|Snack|||||
 |||Raisin|47|47|||
 |||Walnuts|16|16|||
@@ -267,11 +267,11 @@ immediately before lying down.
 Like that I avoid having to get up to go to the bathroom at night and don't wake up completely
 dehydrated.
 
-### Tuesday
+### Tuesday 22.09.2020
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|7:13|14|Coconut oil||14|||
+|7:13||Coconut oil||14|||
 |7:40|973|Lemon water|||||
 |||Lemon juice|19|Half a lemon|||
 |||Pukka Peppermint&Licorice||One bag|||
@@ -283,7 +283,7 @@ dehydrated.
 |||Frozen wild blueberries|94|94|||
 |||Banana|140|209|||
 |||Peanut butter|34|34||
-|||Cinamon|||||
+|||Cinnamon|||||
 |12:37|1346|Lunch|||||
 |||Frozen brokkoli|142|142|||
 |||Frozen spinach|150|150|||
@@ -382,11 +382,11 @@ I don't have this big a dish so I'll split it up in 4 portions like this, that I
 Three portions would have been ideal.
 The last one felt kind of forced.
 
-### Wednesday
+### Wednesday 23.09.2020
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|7:28|14|Coconut oil||14||||
+|7:28||Coconut oil||14||||
 |7:55|979|Lemon water|||||
 |||Lemon juice|33|Half a lemon|||
 |||Peppermint tea|One bag|||
@@ -399,7 +399,7 @@ The last one felt kind of forced.
 |||Banana|80|120|||
 |||Peanut butter|32|32|||
 |||Frozen mango|87|87|||
-|||Cinamon|||||
+|||Cinnamon|||||
 |11:40|350|Water|||||
 |13:58|1116|Lunch|||||
 |||Frozen brokkoli|142|142|||
@@ -427,7 +427,7 @@ The last one felt kind of forced.
 ||PiriPiri|2|2||
 |20:38|350|Water|||||
 |21:38|50|Mais cakes|50|50|||
-||350|Water
+|23:48|350|Water|||||
 
 #### 7:28 Coconut oil
 
@@ -483,15 +483,101 @@ Also soaked some new sprouts.
 
 ![Mais cakes](assets/wednesday-snack.jpg)
 
-#### ? Going to bed
+#### 23:48 Going to bed
 
-### Thursday
+### Thursday 24.09.2020
 
-### Friday
+|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|---|---|---|---|---|---|---|
+|7:43||Coconut oil||9||||
+|8:05|971|Lemon water|||||
+|||Lemon juice|37|Half a lemon|||
+||Pukka Peppermint&Licorice|One bag|||
+|10:34|930|Oat meal|||||
+|||Oats|138|138|||
+|||Flax seeds|44|44|||
+|||Coconut flakes|21|21|||
+|||Cocoa powder|8|8|||
+|||Frozen wild blueberries|111|111|||
+|||Banana|160|233|||
+|||Peanut butter|28|28|||
+|||Cinnamon|||||
+|12:28|350|Water|||||
+|15:33|350|Water|||||
+|15:33|47|Snack|||||
+|||Raisins|35|35|||
+|||Walnuts|12|12|||
+|16:23|1946|Lunch|||||
+|||537|Water|||||
+|||Fullcorn rice linguine|300|300|||
+|||Miso paste|6|6|||
+|||Tamari|10|10|||
+|||Smoked tofu|280|280|||
+|||Sesame seeds|15|15|||
+|||Leek|210|220|||
+|||Garlic|10|12||||
+|||White cabbage|120|120|||
+|||Red onion|89|100|||
+|||Beet root|87|101|||
+|16:23|350|Water|||||
+|20:55|350|Water|||||
+|20:55|517|Sprouts|||||
+|||Green lentils sprouts|41|41|||
+|||Sweet lupine sprouts|40|40|||
+|||Red lentil sprouts|21|21|||
+|||Sunflower seeds|20|20|||
+|||Ketchup|82|82|||
+|||Cashew nuts|35|35|||
 
-### Saturday
+#### 7:43 Coconut oil
 
-### Sunday
+#### 8:05 Lemon water
+
+![Lemon water](assets/thursday-lemon.jpg)
+
+Also rinsing
+
+#### 10:34 Breakfast
+
+![Breakfast](assets/thursday-breakfast.jpg)
+
+#### 15:33 Lunch
+
+![Lunch](assets/thursday-lunch.jpg)
+
+Spices: nutritional yeast, chili, coriander, ginger
+
+![Oven pre cooked](assets/thursday-lunch-pre.jpg)
+
+![Oven post cooked](assets/thursday-lunch-past.jpg)
+
+#### 20:55 Sprouts
+
+Nutritional yeast
+
+### Friday 25.09.2020
+
+|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|---|---|---|---|---|---|---|
+|16:23|1408|Lunch|||||
+|||Fullcorn rice linguine|300|300|||
+|||Miso paste|6|6|||
+|||Tamari|10|10|||
+|||Smoked tofu|280|280|||
+|||Sesame seeds|15|15|||
+|||Leek|210|220|||
+|||Garlic|10|12||||
+|||White cabbage|120|120|||
+|||Red onion|89|100|||
+|||Beet root|87|101|||
+
+#### Lunch
+
+Remember to add the water weight
+
+### Saturday 26.09.2020
+
+### Sunday 27.09.2020
 
 ### Results
 
