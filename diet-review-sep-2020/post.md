@@ -557,7 +557,11 @@ Spices: nutritional yeast, chili, coriander, ginger
 
 #### 20:55 Sprouts
 
-Nutritional yeast
+![Sprouts](assets/thursday-sprouts.jpg)
+
+I just rinsed the sprouts, put some ketchup, nutritional yeast and ground cashew nuts on top.
+While ketchup is not exactly a whole food, [the one that I use](https://www.felix.se/products/ketchup-osotad/)
+from felix seems to not include too much crap.
 
 #### 00:09 Going to bed
 
