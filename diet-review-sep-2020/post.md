@@ -60,6 +60,9 @@ log the grams of spices per meal in cronometer.
 I will have to weigh a lot of foods twice as, for a banana for example, I want to track the calories of the part that ate,
 but the price of the banana including its peel.
 
+I will only track the calories and other nutritional facts once the experiment is over as to not influence my decision making
+during the experiment.
+
 ## Disclaimer
 
 As of writing this, I am working in the home office.
@@ -512,7 +515,7 @@ Also soaked some new sprouts.
 |||Fullcorn rice linguine|300|300|||
 |||Miso paste|6|6|||
 |||Tamari|10|10|||
-|||Smoked tofu|280|280|||
+|||Smoked tofu|115|115|||
 |||Sesame seeds|15|15|||
 |||Leek|210|220|||
 |||Garlic|10|12||||
@@ -528,6 +531,7 @@ Also soaked some new sprouts.
 |||Sunflower seeds|20|20|||
 |||Ketchup|82|82|||
 |||Cashew nuts|35|35|||
+|00:09|350|Water|||||
 
 #### 7:43 Coconut oil
 
@@ -555,27 +559,98 @@ Spices: nutritional yeast, chili, coriander, ginger
 
 Nutritional yeast
 
+#### 00:09 Going to bed
+
 ### Friday 25.09.2020
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|16:23|1408|Lunch|||||
+|07:45||Coconut oil||12|||
+|08:10|951|Lemon water|||||
+|||Lemon juice|41|Half a lemon|||
+|||Pukka Peppermint&Licorice||One bag|||
+|10:08|835|Oat meal|||||
+|||Oats|102|102|||
+|||Flax seeds|32|32|||
+|||Coconut flakes|20|20|||
+|||Cocoa powder|7|7|||
+|||Frozen wild blueberries|98|98|||
+|||Banana|178|257|||
+|||Peanut butter|33|33|||
+|||Cinnamon|||||
+|13:28|350|Water|||||
+|13:38 & 18:32|2133|Lunch|||||
 |||Fullcorn rice linguine|300|300|||
 |||Miso paste|6|6|||
 |||Tamari|10|10|||
-|||Smoked tofu|280|280|||
+|||Smoked tofu|115|115|||
 |||Sesame seeds|15|15|||
 |||Leek|210|220|||
 |||Garlic|10|12||||
 |||White cabbage|120|120|||
 |||Red onion|89|100|||
 |||Beet root|87|101|||
+|18:32|350|Water|||||
+|20:57|350|Water|||||
+|20:57|427|Rice cakes|||||
+|||Rice cakes|100|100|||
+|||Peanut butter|30|30|||
+|||Banana|297|422|||
+|02:12|350|Water|||||
 
-#### Lunch
+#### 7:45 Coconut oil
 
-Remember to add the water weight
+#### 8:10 Lemon water
+
+![Lemon water](assets/friday-lemon.jpg)
+
+Also rinsing
+
+#### 10:08 Breakfast
+
+![Breakfast](assets/friday-breakfast.jpg)
+
+#### 13:28 Lunch 1/2
+
+![Lunch](assets/friday-lunch.jpg)
+
+#### 18:32 Lunch 2/2
+
+#### 20:57 Dinner
+
+![Dinner](assets/friday-dinner.jpg)
+
+Also cinnamon
+
+Also rinsing and new sprouts
+
+#### 2:12 Going to bed
 
 ### Saturday 26.09.2020
+
+|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|---|---|---|---|---|---|---|
+|10:15||Coconut oil||12|||
+|10:43|400|Lemon water|||||
+|||Lemon juice|41|Half a lemon|||
+|10:43|570|Oat meal|||||
+|||Oats|75|75|||
+|||Flax seeds|31|31|||
+|||Coconut flakes|16|16|||
+|||Cocoa powder|7|7|||
+|||Frozen wild blueberries|79|79|||
+|||Peanut butter|30|30|||
+|||Raisins|61|61|||
+|||Cinnamon|||||
+|12:43|350|Water|||||
+
+#### 10:15 Coconut oil
+
+#### 10:43 Lemon water & breakfast
+
+![Breakfast](assets/saturday-breakfast.jpg)
+
+Also rinsing
 
 ### Sunday 27.09.2020
 
