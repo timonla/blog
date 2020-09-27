@@ -647,6 +647,20 @@ Also rinsing and new sprouts
 |||Raisins|61|61|||
 |||Cinnamon|||||
 |12:43|350|Water|||||
+|13:49|1055|Smoothie|||||
+|||Banana|380|610|||||
+|||Walnuts|6|6|||||
+|||Frozen spinach|126|126|||||
+|||Coconut flakes|20|20|||||
+|||Frozen wild blueberries|86|86|||
+|||Oats|17|17|||
+|16:30|320|Water|||||
+|18:30|320|Water|||||
+|18:38||Tacos|||||
+|19:21|320|Water|||||
+|19:47||Magnum almond|||||
+|23:00|550|Water|||||
+|02:11|350|Water|||||
 
 #### 10:15 Coconut oil
 
@@ -656,13 +670,134 @@ Also rinsing and new sprouts
 
 Also rinsing
 
+#### 13:49 Smoothie
+
+![Smoothie](assets/saturday-smoothie.jpg)
+
+#### 16:15 Dinner preparations
+
+I usually follow my adaptation of [this recipe](https://www.theedgyveg.com/2015/04/20/jackfruit-carnitas-pulled-pork-tacos/)
+mainly leaving out the oil and making it more spicy.
+This time we decided to try out swapping out the jackfruit for mushrooms.
+The mushrooms have a better taste but the texture of the jackfruit is better.
+Also it was significantly more expensive to use mushrooms as they shrink so much during cooking.
+
+![Mushroom taco filling](assets/saturday-mushrooms-pre.jpg)
+
+![Mushroom taco filling](assets/saturday-mushrooms-past.jpg)
+
+big container 1073
+champignon 200 200
+shitake 150 142
+shitake 150 142
+oyster 150 104
+80g adabo
+97 92 onion
+91 77 onion
+36g soy sauce
+14g maple syrup
+25 garlic 12
+11g bullion
+3tsp smoked paprika
+1tsp black pepper
+water
+700 total weight after cooking
+
+![Mango salsa](assets/saturday-salsa.jpg)
+
+salsa bowl 324
+500 mango
+47 cilantro
+116 onion 106
+1 lime 30g
+pinch of salt
+1018 with bowl
+
+![Cashew lime cream](assets/saturday-cream.jpg)
+
+60 cashew
+600 bowl
+26 lime 1
+total with glas 291
+glas 152
+pinch of salt
+
+![Tortillas](assets/saturday-tortillas.jpg)
+
+340 corn bowl
+360 corn
+26 tortillas
+1229 grams before cooking
+
+Sweet potatoe 410 300
+430 paprika stuff
+220 onion without cutoffs
+pinch of salt
+17 olive oil
+400 corn 273
+304 - 127
+pinch of salt
+
+#### 18:38 Dinner
+
+![Tacos](assets/saturday-taco.jpg)
+
+![Tacos](assets/saturday-tacos.jpg)
+
+#### 19:47 Ice cream
+
+![Magnum almond](assets/saturday-ice-cream.jpg)
+
+#### 23:00
+
+Rinsing sprouts
+
+#### 2:11 Going to bed
+
 ### Sunday 27.09.2020
+
+|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|---|---|---|---|---|---|---|
+|11:40||Coconut oil||14|||
+|12:10|485|Lemon water|||||
+|||Lemon juice|44|Half a lemon|||
+|12:10|862|Oat meal|||||
+|||Oats|106|106|||
+|||Flax seeds|39|39|||
+|||Coconut flakes|16|16|||
+|||Cocoa powder|8|8|||
+|||Frozen wild blueberries|83|83|||
+|||Peanut butter|30|30|||
+|||Banana|171|254|||
+|||Cinnamon|||||
+|||Buckwheat|204|204|||
+
+#### 11:40 Coconut oil
+
+Also rinsing
+
+#### 12:10 Breakfast
+
+![Breakfast](assets/sunday-breakfast.jpg)
+
+Also washed and soaked some buckwheat for lunch.
+
+#### Lunch
+
+#### Going to bed
+
+#### Dinner
 
 ### Results
 
 ### Conclusions
 
+Having not tracked my food intake in a while I can definitely say that I did not miss it.
+Especially documenting everthing in here and calculating the cost was no fun :).
+This week however, seemed like a good representation for my diet in the recent weeks.
+So I am at least happy with how that turned out.
 Would be good to track time in the kitchen and actual time eating the next time.
+Maybe use something like [jiffy](https://jiffy.nu/) to track it properly.
 
 ## New goals
 
