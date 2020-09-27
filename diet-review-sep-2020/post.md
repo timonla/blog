@@ -122,6 +122,7 @@ The capsules are much easier to use.
 |Turmeric|305|||||
 |Smoked Paprika|377|||||
 |Basil|216|||||
+|Rosemary|209|||||
 
 ### Monday 21.09.2020
 
@@ -553,7 +554,7 @@ Spices: nutritional yeast, chili, coriander, ginger
 
 ![Oven pre cooked](assets/thursday-lunch-pre.jpg)
 
-![Oven post cooked](assets/thursday-lunch-past.jpg)
+![Oven post cooked](assets/thursday-lunch-post.jpg)
 
 #### 20:55 Sprouts
 
@@ -684,7 +685,7 @@ Also it was significantly more expensive to use mushrooms as they shrink so much
 
 ![Mushroom taco filling](assets/saturday-mushrooms-pre.jpg)
 
-![Mushroom taco filling](assets/saturday-mushrooms-past.jpg)
+![Mushroom taco filling](assets/saturday-mushrooms-post.jpg)
 
 big container 1073
 champignon 200 200
@@ -771,6 +772,27 @@ Rinsing sprouts
 |||Banana|171|254|||
 |||Cinnamon|||||
 |||Buckwheat|204|204|||
+|14:25|190|Water|||||
+|14:25|809|Isotonic drink|||||
+|||Iso|45|45|||
+|15:00||Banana||126|||
+|16:10|750|Water|||||
+|18:00|730|Water|||||
+|18:00|654|Potatoe fries|||||
+|||Potatoes|815|1021|||
+|||Felix|124|124|||
+|||Sesame|18|18|||
+|19:14|1434|Wraps|||||
+|||Buckwheat|204|204|||
+|||Carrot|273|294|||
+|||Polka beets|279|313|||
+|||Red onion|183|199|||
+|||Tahini|49|49|||
+|||Senap|40|40|||
+|||Tamari|10|10|||
+|||Lemon juice|6|From breakfast lemon|||||
+|||Garlic|20|25|||
+|21:40|410|Water|||||
 
 #### 11:40 Coconut oil
 
@@ -782,11 +804,51 @@ Also rinsing
 
 Also washed and soaked some buckwheat for lunch.
 
-#### Lunch
+#### 14:25 Cycling snack
+
+Banana and isotonic drink
+
+![Isotonic drink and banana](assets/sunday-iso.jpg)
+
+#### 16:28 Lunch & Dinner prep
+
+![Fries in the oven](assets/sunday-fries-pre.jpg)
+
+Kurkuma
+Smoked paprika
+Salt
+Chili
+
+![Buckwheat mixture](assets/sunday-buckwheat-blended.jpg)
+
+![Buckwheat pan](assets/sunday-buckwheat-in-pan.jpg)
+
+![Buckwheat turning](assets/sunday-buckwheat-turn.jpg)
+
+Emory 1l glas 468
+Rosemary
+With glas 1093 wet
+On plate 764
+
+#### 18:00 Lunch
+
+40 Sweet lupine seeds weigh 14g and become 52g when fully sprouted.
+
+![Fries](assets/sunday-fries-post.jpg)
+
+Potatoe fries
+
+#### 19:14 Dinner
+
+![Buckwheat wraps](assets/sunday-dinner.jpg)
+
+![buckwheat wrap](assets/sunday-wrap.jpg)
+
+#### Snack
+
+Orange also rinsing sprouts.
 
 #### Going to bed
-
-#### Dinner
 
 ### Results
 
@@ -797,6 +859,8 @@ Especially documenting everthing in here and calculating the cost was no fun :).
 This week however, seemed like a good representation for my diet in the recent weeks.
 So I am at least happy with how that turned out.
 Would be good to track time in the kitchen and actual time eating the next time.
+However, it would not have made sense to do it during this week since the tracking and taking photos took
+quite some time and would have distorted the actual time.
 Maybe use something like [jiffy](https://jiffy.nu/) to track it properly.
 
 ## New goals
