@@ -114,15 +114,16 @@ The capsules are much easier to use.
 
 |Spice|Start weight in g|End weight in g|Delta in g|Price EUR|Price SEK|
 |---|---|---|---|---|---|
-|Cinnamon|189|||||
-|Nutritional Yeast|591|||||
-|Chili|288|||||
-|Coriander|296|||||
-|Ginger|286|||||
-|Turmeric|305|||||
-|Smoked Paprika|377|||||
-|Basil|216|||||
-|Rosemary|209|||||
+|Cinnamon|189|179||||
+|Nutritional Yeast|591|489||||
+|Chili|288|282||||
+|Coriander|296|289||||
+|Ginger|286|276||||
+|Turmeric|305|297||||
+|Smoked Paprika|377|353||||
+|Basil|216|213||||
+|Rosemary|209|204||||
+|Salt|||||
 
 ### Monday 21.09.2020
 
@@ -792,7 +793,9 @@ Rinsing sprouts
 |||Tamari|10|10|||
 |||Lemon juice|6|From breakfast lemon|||||
 |||Garlic|20|25|||
-|21:40|410|Water|||||
+|21:40|200|Water|||||
+|22:48|257|Orange|257|377|||
+|00:15|160|Water|||||
 
 #### 11:40 Coconut oil
 
@@ -844,11 +847,17 @@ Potatoe fries
 
 ![buckwheat wrap](assets/sunday-wrap.jpg)
 
-#### Snack
+#### 22:48 Orange snack
 
-Orange also rinsing sprouts.
+![Orange](assets/sunday-orange)
 
-#### Going to bed
+Ate an orange because I was craving something cold and fresh after lunch and dinner.
+I was too lazy but should have juiced it instead.
+Eating a citrus fruit so close before brushing my teeth was not optimal.
+
+Also rinsed the sprouts.
+
+#### 0:15 Going to bed
 
 ### Results
 
