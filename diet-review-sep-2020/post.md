@@ -31,7 +31,7 @@ This list is by no means *static* or *final* but at the time of writing this:
 * I don't consume alcohol (apart from my vitamin B12 drops)
 * I avoid caffeine
 * I avoid salt if possible
-* My diet is high carb / low fat
+* I try to not eat too much fat
 
 If you are interested in some more inspiration on similar diets I can highly recomment:
 * Dr. Greger's Book [HOW NOT TO DIE](https://nutritionfacts.org/book/how-not-to-die/) as well as
@@ -76,6 +76,8 @@ I am not a great cook and don't have a lot of recipies to share.
 I think of all the thinks I would like to eat and then assemble a dish of them.
 For that I try to understand, through a lot of experiments, how certain ingredients will behave while cooking
 and how to use that to my advantage.
+To get started, [this amazing youtube channel](https://www.youtube.com/user/thevegancorner) will
+give you some great ideas and recipes and explain how to use which ingredients in vegan whole food recipes.
 This has worked fine for me in the past years.
 I never find myself not finishing a meal, since when it's prepared with only nice ingredients, probably the end result is also nice :)
 
@@ -541,7 +543,7 @@ Also soaked some new sprouts.
 
 ![Lemon water](assets/thursday-lemon.jpg)
 
-Also rinsing
+Also rinsing the sprouts.
 
 #### 10:34 Breakfast
 
@@ -658,7 +660,25 @@ Also rinsing and new sprouts
 |||Oats|17|17|||
 |16:30|320|Water|||||
 |18:30|320|Water|||||
-|18:38||Tacos|||||
+|18:38|350|Taco filling|||||
+|||Champignons|100|100|||
+|||Shitake mushrooms|142|150|||
+|||Oyster mushrooms|52|75|||
+|||Adabo chili|40|40|||
+|||Red onion|84|94|||
+|||Soy sauce|18|18|||
+|||Garlic|6|12|||
+|||Vegetable bullion|5|5|||
+|18:38|~210|Tortillas|||||
+|||Corn flour|180|180|||
+|18:38|347|Mango salsa|||||
+|||Frozen mango|250|250|||
+|||Fresh cilantro|23|Half a plant|||
+|||Red onion|53|58|||
+|||Lime juice|15|Half a lime|||
+|18:38|139|Cashew cream|||||
+|||Cashews|60|60|||
+|||Lime juice|26|1 lime|||
 |19:21|320|Water|||||
 |19:47||Magnum almond|||||
 |23:00|550|Water|||||
@@ -670,7 +690,7 @@ Also rinsing and new sprouts
 
 ![Breakfast](assets/saturday-breakfast.jpg)
 
-Also rinsing
+Also rinsing the sprouts.
 
 #### 13:49 Smoothie
 
@@ -688,57 +708,32 @@ Also it was significantly more expensive to use mushrooms as they shrink so much
 
 ![Mushroom taco filling](assets/saturday-mushrooms-post.jpg)
 
-big container 1073
-champignon 200 200
-shitake 150 142
-shitake 150 142
-oyster 150 104
-80g adabo
-97 92 onion
-91 77 onion
-36g soy sauce
-14g maple syrup
-25 garlic 12
-11g bullion
-3tsp smoked paprika
-1tsp black pepper
-water
-700 total weight after cooking
-
 ![Mango salsa](assets/saturday-salsa.jpg)
 
-salsa bowl 324
-500 mango
-47 cilantro
-116 onion 106
-1 lime 30g
-pinch of salt
-1018 with bowl
+Chop all the ingredients and mix them with a pinch of salt.
+It can be difficult to get good fresh mango, especially on short notice.
+Frozen mango does the job just fine.
 
 ![Cashew lime cream](assets/saturday-cream.jpg)
 
-60 cashew
-600 bowl
-26 lime 1
-total with glas 291
-glas 152
-pinch of salt
+Soak the cashews in water for several hours.
+If you are short on time, you can use boiling water and the cashews should be about soft enough
+after an hour.
+Then simply follow the recipe.
+My friend did not have apple cider vinegar, it's also fine without.
+I find that 60g of cashews will be fine for 12 tacos (1 can of jackfruit).
 
 ![Tortillas](assets/saturday-tortillas.jpg)
 
-340 corn bowl
-360 corn
-26 tortillas
-1229 grams before cooking
+If you are eating tacos and are not preparing your own tortillas, you are doing it wrong.
+Just get the harina de maiz (nixtramalizado) and mix it with water, make balls of the dough
+(I find 33g to be result the perfect *3 bite taco* size) and then form them by pressing them
+in aa plastic bag between two flat surfaces (a pot and the kitchen counter will do).
 
-Sweet potatoe 410 300
-430 paprika stuff
-220 onion without cutoffs
-pinch of salt
-17 olive oil
-400 corn 273
-304 - 127
-pinch of salt
+A good mixture of flour and water today was 265ml of water for the 180g of flour and resulted
+in 13 tortillas.
+
+Press them quite thin and put them roast them in a preheated pan at medium heat.
 
 #### 18:38 Dinner
 
@@ -750,9 +745,13 @@ pinch of salt
 
 ![Magnum almond](assets/saturday-ice-cream.jpg)
 
+This is my goto vegan ice cream, that is widely available.
+It has been quite some years since I have had the non-vegan version but these days
+I cannot immagine that it would taste any better.
+
 #### 23:00
 
-Rinsing sprouts
+Rinsing the sprouts
 
 #### 2:11 Going to bed
 
@@ -772,11 +771,10 @@ Rinsing sprouts
 |||Peanut butter|30|30|||
 |||Banana|171|254|||
 |||Cinnamon|||||
-|||Buckwheat|204|204|||
 |14:25|190|Water|||||
 |14:25|809|Isotonic drink|||||
 |||Iso|45|45|||
-|15:00||Banana||126|||
+|15:00|~85|Banana|~85|126|||
 |16:10|750|Water|||||
 |18:00|730|Water|||||
 |18:00|654|Potatoe fries|||||
@@ -793,23 +791,24 @@ Rinsing sprouts
 |||Tamari|10|10|||
 |||Lemon juice|6|From breakfast lemon|||||
 |||Garlic|20|25|||
+|19:14|390|Sprouts|||||
+|||Green lentil sprouts|50|50|||
+|||Sweet lupine sprouts|50|50|||
 |21:40|200|Water|||||
 |22:48|257|Orange|257|377|||
 |00:15|160|Water|||||
 
 #### 11:40 Coconut oil
 
-Also rinsing
+Also rinsing the sprouts.
 
 #### 12:10 Breakfast
 
 ![Breakfast](assets/sunday-breakfast.jpg)
 
-Also washed and soaked some buckwheat for lunch.
+Also washed and soaked some buckwheat for dinner.
 
 #### 14:25 Cycling snack
-
-Banana and isotonic drink
 
 ![Isotonic drink and banana](assets/sunday-iso.jpg)
 
@@ -817,29 +816,41 @@ Banana and isotonic drink
 
 ![Fries in the oven](assets/sunday-fries-pre.jpg)
 
-Kurkuma
-Smoked paprika
-Salt
-Chili
+A common misconception is that you need oil for crunchy fries.
+If you have parchment paper or a silicone sheet however, you can simply throw potatoe fries
+or wedges on there and put some spices on top.
+I used kurkuma, smoked paprika, chili and a pinch of salt.
+Unfortunately I don't have garlic and onion powder at hand right now.
+Those are a real game changer for fries.
+
+Make sure that the fries are evenly spaced and don't overlap too much.
+Then you just pop them in the oven at 180C for 50 minutes and turn them around half way through.
 
 ![Buckwheat mixture](assets/sunday-buckwheat-blended.jpg)
+
+Now this recipe blew my mind, when I first found out about it and I ate buckwheat tortillas
+every day for several weeks :)
+Here is [the first recipe](https://www.youtube.com/watch?v=wuUX_lX-hm4) I followed.
+You don't even need a high powered blender.
+A stick blender will do the job.
+And they are so incredibly versatile.
+You can prepare them with varying thickness to achieve, crepes, wraps or pancakes.
+You can add all kinds of spices and then have them with peanut butter and banana,
+chocolate cream, blueberries, maple syrup or, like I today, as savory wraps.
+
+I added rosemary and garlic.
+
+Make sure that you rinse the buckwheat properly before you mix it with fresh water and blend it.
+You can start with less water and thenn add it until you get the desired consistency.
+For 204g of buckwheat my entire mixture today turned out to be 625g.
 
 ![Buckwheat pan](assets/sunday-buckwheat-in-pan.jpg)
 
 ![Buckwheat turning](assets/sunday-buckwheat-turn.jpg)
 
-Emory 1l glas 468
-Rosemary
-With glas 1093 wet
-On plate 764
-
 #### 18:00 Lunch
 
-40 Sweet lupine seeds weigh 14g and become 52g when fully sprouted.
-
 ![Fries](assets/sunday-fries-post.jpg)
-
-Potatoe fries
 
 #### 19:14 Dinner
 
@@ -860,6 +871,22 @@ Also rinsed the sprouts.
 #### 0:15 Going to bed
 
 ### Results
+
+TODO: fix with updated results.
+![Cronometer results](assets/cronometer-week-result.jpg)
+
+The main nutrients that are missing are Vitamin E and Calcium.
+I have tracked these before and am aware that these can be tricky if you don't know what
+foods contain significant amounts of them.
+Both of them can be fixed easily with swapping out the peanut butter in the oat meal with
+almond butter.
+It's more expensive than peanut butter but it's superior in basically all nutrients.
+I have not been using it recently, as it is more difficult to get here.
+This experiment however, has unveiled that I should go the extra step and switch to
+almond butter again.
+Otherwise, enough Vitamin E is easily achieved with a daily dose of spinach in a smoothie
+and there is a good amount of Calcium in sesame.
+Of course there are also a lot of foods fortified with Calcium, that you can use.
 
 ### Conclusions
 
