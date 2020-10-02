@@ -4,7 +4,7 @@ My diet is a very important topic for me and as such I am willing to experiment 
 I thought I knew, overboard, if I learn something new.
 From time to time I like to review my diet on whatever factors I recently altered.
 
-Unless you are an olympic athlete and want to get the last bit of performance out of your diet,
+Unless you are an Olympic athlete and want to get the last bit of performance out of your diet,
 or have a serious medical condition, I don't think there is a point in doing this all the time.
 However, doing it when trying out new stuff, can give you a good understanding what foods contain
 which nutrients and you can use that on a day to day basis without thinking much about it.
@@ -23,7 +23,7 @@ The idea of making this review public is to share my day to day experience with 
 inspiration on a regular basis and feel that most *What I eat in a day* content on social media only shows the glorious parts or
 is simply not detailed enough.
 
-I will not put any aditional effort or research into what I am eating during this week.
+I will not put any additional effort or research into what I am eating during this week.
 This, I hope, will give you an idea and some inspiration, what is achievable with very little effort.
 
 (I will try to put slightly more effort into making the food look appealing in the photos though.)
@@ -86,12 +86,12 @@ I am not a great cook and don't have a lot of recipes to share.
 I think of all the ingredients I would like to eat and then assemble a dish of them.
 For that I try to understand, through a lot of experiments, how certain ingredients will behave while cooking
 and how to use that to my advantage.
-To get started, [the vegan corner YouTube channel](https://www.youtube.com/user/thevegancorner) is an excelent
+To get started, [the vegan corner YouTube channel](https://www.youtube.com/user/thevegancorner) is an excellent
 starting point.
 It will give you some great ideas and recipes and explain how to use which ingredients in vegan whole food recipes.
 This has worked fine for me in the past years.
 I always like my food, since when it's prepared with only delicious ingredients, why shouldn't the end result 
-be delicous as well? :)
+be delicious as well? :)
 
 I am neither a medical or nutritional expert.
 What I document here is simply my experience and the decisions I make for me personally.
@@ -573,7 +573,7 @@ Also rinsing the sprouts.
 
 Spices: nutritional yeast, chili, coriander, ginger
 
-![Oven pre cooked](assets/thursday-lunch-pre.jpg)
+![Oven pre-cooked](assets/thursday-lunch-pre.jpg)
 
 ![Oven post cooked](assets/thursday-lunch-post.jpg)
 
@@ -682,7 +682,7 @@ Also rinsing and new sprouts
 |||Champignon|100|100|||
 |||Shiitake mushrooms|142|150|||
 |||Oyster mushrooms|52|75|||
-|||Chipotle Chilis in Adobo Sauce|105|105|||
+|||Chipotle Chilies in Adobo Sauce|105|105|||
 |||Red onion|84|94|||
 |||Tamari|9|9|||
 |||Garlic|6|12|||
@@ -744,7 +744,8 @@ I find that 60g of cashews will be fine for 12 tacos (1 can of jack fruit).
 ![Tortillas](assets/saturday-tortillas.jpg)
 
 If you are eating tacos and are not preparing your own tortillas, you are doing it wrong.
-Just get the harina de maiz (nixtramalizado) and mix it with water, make balls of the dough
+Just get the corn masa (has to be the [nixtamalizado stuff](https://www.naturelo.com.mx/ing/maizazul.php))
+and mix it with water, make balls of the dough
 (I find 33g to be result the perfect *3 bite taco* size) and then form them by pressing them
 in a plastic bag between two flat surfaces (a pot and the kitchen counter will do).
 
@@ -946,7 +947,7 @@ Also ICA online prices seem to differ from what I pay in the store.
 |Banana|[ICA](https://www.ica.se/handla/sok/banan/produkt/banan-ca-765g-ica-i-love-eco-id_p_2098401100000214/?s=ica-kvantum-frolunda-id_03553)|✔️|0.2|2.1|100g|
 |Orange|[ICA](https://www.ica.se/handla/sok/banan/produkt/apelsin-ica-ca-310g-id_p_2092317400000724/?s=ica-kvantum-frolunda-id_03553)|✔️|0.41|4.3|100g|
 |Frozen Wild Blueberries|[ICA](https://www.ica.se/handla/sok/fryst%20bl/produkt/blabar-fryst-250g-krav-ica-i-love-eco-id_p_7318690125037/?s=ica-kvantum-frolunda-id_03553)|✔️|1.03|10.78|100g|
-|Frozen Broccoli|[ICA](https://www.ica.se/handla/sok/broccoli/produkt/broccoli-ekologisk-800-g-ica-id_p_7318690131007/?s=ica-kvantum-frolunda-id_03553)|✔️|0.36|3.74|100g|Probably wrong price becauses online price
+|Frozen Broccoli|[ICA](https://www.ica.se/handla/sok/broccoli/produkt/broccoli-ekologisk-800-g-ica-id_p_7318690131007/?s=ica-kvantum-frolunda-id_03553)|✔️|0.36|3.74|100g|Probably wrong price  because online price
 |Chioggia beet|ICA|✔️|0.34|3.59|100g|
 |Carrots|[ICA](https://www.ica.se/handla/sok/mor/produkt/morotter-500g-krav--ica-i-love-eco-id_p_7318690131960/?s=ica-kvantum-frolunda-id_03553)|✔️|0.36|3.79|100g|
 |Frozen Spinach|ICA|✔️|0.47|4.88|100g|
@@ -978,7 +979,7 @@ Also ICA online prices seem to differ from what I pay in the store.
 |Lime|ICA|✔️|0.76|7.95|1 fruit|
 |Fresh Coriander|ICA|✔️|1.43|15|1 plant|
 |Buckwheat|[ICA](https://www.ica.se/handla/sok/bovete/produkt/bovete-500g-krav-salta-kvarn-id_p_7317731520008/?s=ica-kvantum-frolunda-id_03553)|✔️|0.63|6.59|100g|Probably wrong price because online price
-|Chipotle Chilis in Adobo Sauce|[Willy:s](https://www.willys.se/produkt/Chipotle-i-Adobosas-101210363_ST)|❌|1.32|13.76|100g|
+|Chipotle Chilies in Adobo Sauce|[Willy:s](https://www.willys.se/produkt/Chipotle-i-Adobosas-101210363_ST)|❌|1.32|13.76|100g|
 |Pumpkin Seeds|ICA/[HappyGreen](https://www.happygreen.se/kung-markatta-pumpafron-500g-ekologisk)|✔️|1.82|19|100g|Probably wrong price because online price
 |Leek|ICA|✔️|0.57|6|100g|
 |Sweet Lupines|[Spiegelhauer](https://www.baeckerei-spiegelhauer.de/Bio-Lupinensamen-1-kg-von-der-weissen-Suesslupine)|✔️|0.98 dry|10.24 dry|100g|
