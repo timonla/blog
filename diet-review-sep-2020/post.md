@@ -331,7 +331,6 @@ dehydrated.
 ||26|Red Onion|33|0.15|1.52|
 ||4|Garlic|7|0.09|0.94|
 ||8|Potato Starch|8|0.02|0.19|
-||16|Sesame Seeds|16|0.09|0.96|
 ||8|Sesame seeds|8|0.05|0.48|
 |
 |12:37|350|Water|
@@ -430,15 +429,15 @@ The last one felt kind of forced.
 
 ### Wednesday 23.09.2020
 
-|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
 |---|---|---|---|---|---|---|
 |7:28||Coconut Oil|14|0.21|2.24|
 |
-|7:55|979|Lemon Water|||||
-||33|Lemon juice|Half a Lemon|0.53|5.48|
-|||Peppermint Tea|One bag|||
+|7:55|979|Lemon Water||0.63|6.48|
+||33|Lemon Juice|Half a Lemon|0.53|5.48|
+|||Peppermint Tea|One Bag|0.1|1|
 |
-|9:50|773|Oat Meal|||||
+|9:50|773|Oat Meal||2.56|26.67|
 ||98|Oats|98|0.23|2.34|
 ||38|Flax Seeds|38|0.19|1.99|
 ||16|Coconut Flakes|16|0.11|1.12|
@@ -446,43 +445,45 @@ The last one felt kind of forced.
 ||65|Frozen Wild Blueberries|65|0.67|7.01|
 ||80|Banana|120|0.3|3.11|
 ||32|Peanut Butter|32|0.3|3.1|
-|||Frozen mango|87|87|||
+||87|Frozen mango|87|0.66|6.94|
 |
-|11:40|350|Water|||||
+|11:40|350|Water|
 |
-|13:58|1116|Lunch|||||
-|||Frozen broccoli|142|142|||
-|||Frozen spinach|150|150|||
-|||Red thai rice|167|167|||
-|||Red lentils|50|50|||
-|||Coconut milk|133|133|||
-||2|Vegetable Bullion|2|||
-|||Red onion|26|33|||
-|||Garlic|4|7|||
-|||Potato Starch|8|8|||
-|||Cashew nuts|19|19|||
+|13:58|1116|Lunch||4.16|43.24|
+||142|Frozen Broccoli|142|0.45|4.7|
+||150|Frozen Spinach|150|0.71|7.32|
+||167|Red Thai Rice|167|1.34|14.01|
+||50|Red Lentils|50|0.29|3|
+||133|Coconut Milk|133|0.41|4.31|
+||2|Vegetable Bullion|2|0.04|0.38|
+||26|Red Onion|33|0.15|1.52|
+||4|Garlic|7|0.09|0.94|
+||8|Potato Starch|8|0.02|0.19|
+||19|Cashews|19|0.66|6.87|
 |
-|15:50|350|Water|||||
-|17:46|350|Water|||||
+|15:50|350|Water|
+|17:46|350|Water|
 |
-|17:55|747|Smoothie|||||
+|17:55|747|Smoothie||2.4|25.1|
 ||137|Banana|214|0.54|5.54|
 ||23|Coconut Flakes|23|0.15|1.61|
-|||Frozen mango|161|161|||
-|||Frozen banana|126|I have to take a guess here|||
+||161|Frozen Mango|161|1.22|12.85|
+||126|Frozen Banana|~197|0.49|5.1|
 |
-|20:38|244|Sprouts|||||
-||Chickpea sprouts|20|20||
-||Sweet lupine sprouts|30|30||
-||Green lentil sprouts|30|30||
-||Tamari|10|10||
-||PiriPiri|2|2||
+|20:38|244|Sprouts||0.86|9.07|
+||20|Chickpea Sprouts|20|0.13|1.4|
+||30|Sweet Lupine Sprouts|30|0.29|3.07|
+||30|Green Lentil Sprouts|30|0.27|2.82|
+||10|Tamari|10|0.17|1.78|
+||2|PiriPiri|2||
 |
 |20:38|350|Water|
 |
 |21:38|50|Corn Cakes|50|0.7|7.29|
 |
 |23:48|350|Water|
+|
+|Total|5659|||11.52|120.09|
 
 #### 7:28 Coconut Oil
 
@@ -570,7 +571,7 @@ Also soaked some new sprouts.
 |||537|Water|||||
 |||Whole grain rice linguine|300|300|||
 |||Miso paste|6|6|||
-|||Tamari|10|10|||
+||10|Tamari|10|0.17|1.78|
 |||Smoked tofu|115|115|||
 |||Sesame seeds|15|15|||
 ||210|Leek|220|1.2|12.6|
@@ -581,12 +582,12 @@ Also soaked some new sprouts.
 |16:23|350|Water|||||
 |20:55|350|Water|||||
 |20:55|517|Sprouts|||||
-|||Green lentils sprouts|41|41|||
-|||Sweet lupine sprouts|40|40|||
+||41|Green Lentil Sprouts|41|0.37|3.85|
+||40|Sweet Lupine Sprouts|40|0.39|4.1|
 |||Red lentil sprouts|21|21|||
 |||Sunflower seeds|20|20|||
 |||Ketchup|82|82|||
-|||Cashew nuts|35|35|||
+||35|Cashews|35|1.21|12.65|
 |00:09|350|Water|||||
 
 #### 7:43 Coconut Oil
@@ -729,18 +730,18 @@ Also rinsing and new sprouts
 |||Oyster mushrooms|52|75|||
 |||Chipotle Chilies in Adobo Sauce|105|105|||
 |||Red onion|84|94|||
-|||Tamari|9|9|||
+||9|Tamari|9|0.15|1.6|
 ||10|Garlic|12|0.15|1.62|
 ||5|Vegetable Bullion|5|0.09|0.96|
 |18:38|~210|Tortillas|||||
 |||Corn flour|180|180|||
-|18:38|347|Mango salsa|||||
-|||Frozen mango|250|250|||
+|18:38|347|Mango Salsa|||||
+||250|Frozen Mango|250|1.9|19.95|
 |||Fresh cilantro|23|Half a plant|||
 |||Red onion|53|58|||
 |||Lime juice|15|Half a lime|||
 |18:38|139|Cashew cream|||||
-|||Cashews|60|60|||
+||60|Cashews|60|2.07|21.68|
 |||Lime juice|26|1 lime|||
 |19:21|320|Water|||||
 |19:47||Magnum almond|||||
@@ -771,13 +772,13 @@ Also it was significantly more expensive to use mushrooms as they shrink so much
 
 ![Mushroom taco filling](assets/saturday-mushrooms-post.jpg)
 
-![Mango salsa](assets/saturday-salsa.jpg)
+![Mango Salsa](assets/saturday-salsa.jpg)
 
 Chop all the ingredients and mix them with a pinch of salt.
 It can be difficult to get good fresh mango, especially on short notice.
 Frozen mango does the job just fine.
 
-![Cashew lime cream](assets/saturday-cream.jpg)
+![Cashew Lime Cream](assets/saturday-cream.jpg)
 
 Soak the cashews in water for several hours.
 If you are short on time, you can use boiling water and the cashews should be about soft enough
@@ -860,13 +861,13 @@ Rinsing the sprouts
 |||Red onion|183|199|||
 |||Tahini|49|49|||
 |||Mustard|40|40|||
-|||Tamari|10|10|||
+||10|Tamari|10|0.17|1.78|
 |||Lemon juice|6|From breakfast lemon|||||
 ||20|Garlic|25|0.32|3.37|
 |
 |19:14|390|Sprouts|||||
-|||Green lentil sprouts|50|50|||
-|||Sweet lupine sprouts|50|50|||
+||50|Green Lentil Sprouts|50|0.45|4.7|
+||50|Sweet Lupine Sprouts|50|0.49|5.12|
 |
 |21:40|200|Water|||||
 |
