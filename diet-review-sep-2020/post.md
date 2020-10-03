@@ -709,54 +709,59 @@ Also rinsing and new sprouts
 |10:43|400|Lemon Water||0.53|5.48|
 ||41|Lemon Juice|Half a Lemon|0.53|5.48|
 |
-|10:43|570|Oat Meal|||||
+|10:43|570|Oat Meal||2|20.92|
 ||75|Oats|75|0.17|1.79|
 ||31|Flax Seeds|31|0.16|1.62|
 ||16|Coconut Flakes|16|0.11|1.12|
 ||7|Cocoa Powder|7|0.1|1.06|
 ||79|Frozen Wild Blueberries|79|0.81|8.52|
 ||30|Peanut Butter|30|0.28|2.91|
-|||Raisins|61|61|||
-|||Cinnamon|||||
+||61|Raisins|61|0.37|3.9|
 |
 |12:43|350|Water|
 |
-|13:49|1055|Smoothie|||||
+|13:49|1055|Smoothie||3.34|34.73|
 ||380|Banana|610|1.53|15.8|
-|||Walnuts|6|6|||||
-|||Frozen spinach|126|126|||||
+||6|Walnuts|6|0.16|1.7|
+||126|Frozen Spinach|126|0.59|6.15|
 ||20|Coconut Flakes|20|0.13|1.4|
 ||86|Frozen Wild Blueberries|86|0.89|9.27|
 ||17|Oats|17|0.04|0.41|
 |
-|16:30|320|Water|||||
-|18:30|320|Water|||||
+|16:30|320|Water|
+|18:30|320|Water|
 |
-|18:38|350|Taco filling|||||
-|||Champignon|100|100|||
-|||Shiitake mushrooms|142|150|||
-|||Oyster mushrooms|52|75|||
-|||Chipotle Chilies in Adobo Sauce|105|105|||
+|18:38|350|Taco filling||9.25|96.91|
+||100|Champignon|100|1.57|16.48|
+||142|Shiitake mushrooms|150|4.2|43.95|
+||52|Oyster mushrooms|75|2.15|22.48|
+||40|Chipotle Chilies in Adobo Sauce|40|0.53|5.5|
 ||84|Red Onion|94|0.41|4.32|
 ||9|Tamari|9|0.15|1.6|
 ||10|Garlic|12|0.15|1.62|
 ||5|Vegetable Bullion|5|0.09|0.96|
-|18:38|~210|Tortillas|||||
-|||Corn flour|180|180|||
-|18:38|347|Mango Salsa|||||
-||250|Frozen Mango|250|1.9|19.95|
-|||Fresh cilantro|23|Half a plant|||
-||53|Red Onion|58|0.26|2.66|
-|||Lime juice|15|Half a lime|||
-|18:38|139|Cashew cream|||||
-||60|Cashews|60|2.07|21.68|
-|||Lime juice|26|1 lime|||
-|19:21|320|Water|||||
-|19:47||Magnum almond|||||
-|23:00|550|Water|||||
-|02:11|350|Water|||||
 |
-|Total||||||
+|18:38|~210|Tortillas||1.15|12.06|
+||180|Corn flour|180|1.15|12.06|
+|
+|18:38|347|Mango Salsa||3.26|34.09|
+||250|Frozen Mango|250|1.9|19.95|
+||23|Fresh Coriander|Half a plant|0.72|7.5|
+||53|Red Onion|58|0.26|2.66|
+||15|Lime Juice|Half a Lime|0.38|3.98|
+|
+|18:38|139|Cashew cream||2.83|29.63|
+||60|Cashews|60|2.07|21.68|
+||26|Lime Juice|1 Lime|0.76|7.95|
+|
+|19:21|320|Water|
+|
+|19:47|71|Magnum almond|1 Ice Cream|0.95|9.98|
+|
+|23:00|550|Water|
+|02:11|350|Water|
+|
+|Total|5352|||23.49|245.72|
 
 #### 10:15 Coconut Oil
 
