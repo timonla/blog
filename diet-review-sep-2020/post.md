@@ -170,8 +170,8 @@ Price: **0.15 EUR/1.55 SEK** per day.
 ||47|Raisins|47|0.29|3|
 ||16|Walnuts|16|0.43|4.53|
 |
-|13:50|1293|Lunch||3.65|37.94|
-||142|Frozen Broccoli|142|0.51|5.31|
+|13:50|1293|Lunch||3.59|37.33|
+||142|Frozen Broccoli|142|0.45|4.7|
 ||150|Frozen Spinach|150|0.71|7.32|
 ||167|Red Thai Rice|167|1.34|14.01|
 ||50|Red Lentils|50|0.29|3|
@@ -182,17 +182,17 @@ Price: **0.15 EUR/1.55 SEK** per day.
 ||8|Potato Starch|8|0.02|0.19|
 ||16|Sesame Seeds|16|0.09|0.96|
 |
-|13:50|350|Water|||||
-|16:43|350|Water|||||
+|13:50|350|Water|
+|16:43|350|Water|
 |
 |20:17|60|Corn Cakes|60|0.83|8.75|
 |
-|20:17|350|Water|||||
-|22:23|350|Water|||||
+|20:17|350|Water|
+|22:23|350|Water|
 |
-|Total|4695|||8.85|92.3|
+|Total|4695|||8.79|91.69|
 
-#### 7:30 Coconut oil
+#### 7:30 Coconut Oil
 
 ![Lemon water](assets/monday-lemon.jpg)
 
@@ -304,56 +304,67 @@ dehydrated.
 
 ### Tuesday 22.09.2020
 
-|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
 |---|---|---|---|---|---|---|
-|7:13||Coconut oil||14|||
-|7:40|973|Lemon water|||||
-|||Lemon juice|19|Half a lemon|||
-|||Pukka Peppermint&Licorice||One bag|||
-|10:27|803|Oat meal|||||
-|||Oats|104|104|||
-|||Flax seeds|32|32|||
-|||Coconut flakes|17|17|||
-|||Cocoa powder|6|6|||
-|||Frozen wild blueberries|94|94|||
-|||Banana|140|209|||
-|||Peanut butter|34|34||
-|||Cinnamon|||||
-|12:37|1346|Lunch|||||
-|||Frozen broccoli|142|142|||
-|||Frozen spinach|150|150|||
-|||Red thai rice|167|167|||
-|||Red lentils|50|50|||
-|||Coconut milk|133|133|||
-|||Vegetable broth|2|2|||
-|||Red onion|26|33|||
-|||Garlic|4|7|||
-|||Potato starch|8|8|||
-|||Sesame seeds|8|8|||
-|12:37|350|Water|||||
-|15:30|794|Isotonic drink|||||
-|||Water|750||||
-|||Iso powder|42|42|
-|16:57|730|Water|||||
-|17:30|25|Corn cakes|25|25|||
-|18:10|2232|Soup|||||
-|||Potatoes|632|743|||
-|||Leek|328|362|||
-|||Beet roots|180|197|||
-|||Garlic|13|16|||
-|||Canned Tomatoes|400|400|||
-|||Vegetable broth|5|5|||
-|||Cooked white beans|177|||
-|||Pumpkin seeds|40|40|||
-|||Bicarbonate|4|4|||
-|19:53|350|Water|||||
-|23:52|350|Water|||||
+|7:13||Coconut Oil|14|0.21|2.24|
+|
+|7:40|973|Lemon Water||0.67|6.98|
+||19|Lemon Juice|Half a Lemon|0.53|5.48|
+|||Pukka Peppermint & Licorice|One bag|0.14|1.5|
+|
+|10:27|803|Oat Meal||2.41|25.1|
+||104|Oats|104|0.24|2.49|
+||32|Flax Seeds|32|0.16|1.68|
+||17|Coconut Flakes|17|0.11|1.19|
+||6|Cocoa Powder|6|0.09|0.91|
+||94|Frozen Wild Blueberries|94|0.97|10.13|
+||140|Banana|209|0.52|5.41|
+||34|Peanut Butter|34|0.32|3.29|
+|
+|12:37|1146|Lunch||3.55|36.85|
+||142|Frozen Broccoli|142|0.45|4.7|
+||150|Frozen Spinach|150|0.71|7.32|
+||167|Red Thai Rice|167|1.34|14.01|
+||50|Red Lentils|50|0.29|3|
+||133|Coconut Milk|133|0.41|4.31|
+||2|Vegetable Bullion|2|0.04|0.38|
+||26|Red Onion|33|0.15|1.52|
+||4|Garlic|7|0.09|0.94|
+||8|Potato Starch|8|0.02|0.19|
+||16|Sesame Seeds|16|0.09|0.96|
+||8|Sesame seeds|8|0.05|0.48|
+|
+|12:37|350|Water|
+|
+|15:30|794|Isotonic Drink||1.29|13.5|
+||42|Enervit Isotonic Drink|42|1.29|13.5|
+||750|Water|
+|
+|16:57|730|Water|
+|
+|17:30|25|Corn cakes|25|0.35|3.65|
+|
+|18:10|2232|Dinner||7.29|76.33|
+||632|Potatoes|743|1.41|14.49|
+||328|Leek|362|2.06|21.72|
+||180|Beetroot|197|1.01|10.62|
+||13|Garlic|16|0.21|2.16|
+||390|Canned Tomatoes|390|0.94|9.95|
+||5|Vegetable Bullion|5|0.09|0.96|
+||117|White Beans|85|0.81|8.49|
+||40|Pumpkin seeds|40|0.73|7.6|
+||4|Bicarbonate|4|0.03|0.34|
+|
+|19:53|350|Water|
+|23:52|350|Water|
+|
+|Total|7753|||15.77|164.65|
 
-#### 7:13 Coconut oil
+#### 7:13 Coconut Oil
 
 I go t up at 7:13
 
-#### 7:40 Lemon juice
+#### 7:40 Lemon Juice
 
 ![Lemon water](assets/tuesday-lemon.jpg)
 
@@ -396,9 +407,9 @@ Garnish with pumpkin seeds + nutritional yeast.
 
 I got impatient and ate a few corn cakes :)
 
-![Corn cakes](assets/tuesday-snack.jpg)
+![Corn Cakes](assets/tuesday-snack.jpg)
 
-![Frozen beans](assets/tuesday-frozen-beans.jpg)
+![Frozen Beans](assets/tuesday-frozen-beans.jpg)
 
 #### 18:10 Dinner 1/4
 
@@ -421,50 +432,59 @@ The last one felt kind of forced.
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|7:28||Coconut oil||14||||
-|7:55|979|Lemon water|||||
-|||Lemon juice|33|Half a lemon|||
-|||Peppermint tea|One bag|||
-|9:50|773|Oat meal|||||
-|||Oats|98|98|||
-|||Flax seeds|38|38|||
-|||Coconut flakes|16|16|||
-|||Cocoa powder|7|7|||
-|||Frozen wild blueberries|65|65|||
-|||Banana|80|120|||
-|||Peanut butter|32|32|||
+|7:28||Coconut Oil|14|0.21|2.24|
+|
+|7:55|979|Lemon Water|||||
+||33|Lemon juice|Half a Lemon|0.53|5.48|
+|||Peppermint Tea|One bag|||
+|
+|9:50|773|Oat Meal|||||
+||98|Oats|98|0.23|2.34|
+||38|Flax Seeds|38|0.19|1.99|
+||16|Coconut Flakes|16|0.11|1.12|
+||7|Cocoa Powder|7|0.1|1.06|
+||65|Frozen Wild Blueberries|65|0.67|7.01|
+||80|Banana|120|0.3|3.11|
+||32|Peanut Butter|32|0.3|3.1|
 |||Frozen mango|87|87|||
-|||Cinnamon|||||
+|
 |11:40|350|Water|||||
+|
 |13:58|1116|Lunch|||||
 |||Frozen broccoli|142|142|||
 |||Frozen spinach|150|150|||
 |||Red thai rice|167|167|||
 |||Red lentils|50|50|||
 |||Coconut milk|133|133|||
-|||Vegetable broth|2|2|||
+||2|Vegetable Bullion|2|||
 |||Red onion|26|33|||
 |||Garlic|4|7|||
-|||Potato starch|8|8|||
+|||Potato Starch|8|8|||
 |||Cashew nuts|19|19|||
+|
 |15:50|350|Water|||||
 |17:46|350|Water|||||
+|
 |17:55|747|Smoothie|||||
-|||Banana|137|214|||
-|||Coconut flakes|23|23|||
+||137|Banana|214|0.54|5.54|
+||23|Coconut Flakes|23|0.15|1.61|
 |||Frozen mango|161|161|||
 |||Frozen banana|126|I have to take a guess here|||
+|
 |20:38|244|Sprouts|||||
 ||Chickpea sprouts|20|20||
 ||Sweet lupine sprouts|30|30||
 ||Green lentil sprouts|30|30||
 ||Tamari|10|10||
 ||PiriPiri|2|2||
-|20:38|350|Water|||||
-|21:38|50|Corn cakes|50|50|||
-|23:48|350|Water|||||
+|
+|20:38|350|Water|
+|
+|21:38|50|Corn Cakes|50|0.7|7.29|
+|
+|23:48|350|Water|
 
-#### 7:28 Coconut oil
+#### 7:28 Coconut Oil
 
 #### 7:55 Lemon water
 
@@ -501,7 +521,7 @@ Well, making a smoothie is not exactly science.
 Put all the stuff in the blender and blend :)
 With so much frozen stuff, it's important to put the unfrozen stuff at the bottom and choose the exact right water temperature.
 
-![Banana stash](assets/bananas-old-days.jpg)
+![Banana Stash](assets/bananas-old-days.jpg)
 
 ![Frozen banana](assets/wednesday-frozen-banana.jpg)
 
@@ -514,9 +534,9 @@ Also soaked some new sprouts.
 
 ![](assets/wednesday-soaking.jpg)
 
-#### 21:38 Corn cakes
+#### 21:38 Corn Cakes
 
-![Corn cakes](assets/wednesday-snack.jpg)
+![Corn Cakes](assets/wednesday-snack.jpg)
 
 #### 23:48 Going to bed
 
@@ -524,24 +544,28 @@ Also soaked some new sprouts.
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|7:43||Coconut oil||9||||
-|8:05|971|Lemon water|||||
-|||Lemon juice|37|Half a lemon|||
-||Pukka Peppermint&Licorice|One bag|||
-|10:34|930|Oat meal|||||
-|||Oats|138|138|||
-|||Flax seeds|44|44|||
-|||Coconut flakes|21|21|||
-|||Cocoa powder|8|8|||
-|||Frozen wild blueberries|111|111|||
-|||Banana|160|233|||
-|||Peanut butter|28|28|||
-|||Cinnamon|||||
-|12:28|350|Water|||||
-|15:33|350|Water|||||
+|7:43||Coconut Oil|9|0.14|1.44|
+|
+|8:05|971|Lemon Water||0.67|6.98|
+||37|Lemon Juice|Half a Lemon|0.53|5.48|
+|||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
+|
+|10:34|930|Oat Meal|||||
+||138|Oats|138|0.32|3.3|
+||44|Flax Seeds|44|0.22|2.31|
+||21|Coconut Flakes|21|0.14|1.47|
+||8|Cocoa Powder|8|0.12|1.21|
+||111|Frozen Wild Blueberries|111|1.14|11.97|
+||160|Banana|233|0.58|6.04|
+||28|Peanut Butter|28|0.26|2.71|
+|
+|12:28|350|Water|
+|15:33|350|Water|
+|
 |15:33|47|Snack|||||
 |||Raisins|35|35|||
 |||Walnuts|12|12|||
+|
 |16:23|1946|Lunch|||||
 |||537|Water|||||
 |||Whole grain rice linguine|300|300|||
@@ -549,11 +573,11 @@ Also soaked some new sprouts.
 |||Tamari|10|10|||
 |||Smoked tofu|115|115|||
 |||Sesame seeds|15|15|||
-|||Leek|210|220|||
-|||Garlic|10|12||||
+||210|Leek|220|1.2|12.6|
+||10|Garlic|12|0.15|1.62|
 |||White cabbage|120|120|||
 |||Red onion|89|100|||
-|||Beet root|87|101|||
+||87|Beetroot|101|0.52|5.44|
 |16:23|350|Water|||||
 |20:55|350|Water|||||
 |20:55|517|Sprouts|||||
@@ -565,7 +589,7 @@ Also soaked some new sprouts.
 |||Cashew nuts|35|35|||
 |00:09|350|Water|||||
 
-#### 7:43 Coconut oil
+#### 7:43 Coconut Oil
 
 #### 8:05 Lemon water
 
@@ -601,20 +625,23 @@ from Felix seems to not include too much crap.
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|07:45||Coconut oil||12|||
-|08:10|951|Lemon water|||||
-|||Lemon juice|41|Half a lemon|||
-|||Pukka Peppermint&Licorice||One bag|||
-|10:08|835|Oat meal|||||
-|||Oats|102|102|||
-|||Flax seeds|32|32|||
-|||Coconut flakes|20|20|||
-|||Cocoa powder|7|7|||
-|||Frozen wild blueberries|98|98|||
-|||Banana|178|257|||
-|||Peanut butter|33|33|||
-|||Cinnamon|||||
+|07:45||Coconut Oil|12|0.18|1.92|
+|
+|8:10|951|Lemon Water||0.67|6.98|
+||41|Lemon Juice|Half a Lemon|0.53|5.48|
+|||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
+|
+|10:08|835|Oat Meal|||||
+||102|Oats|102|0.24|2.44|
+||32|Flax Seeds|32|0.16|1.68|
+||20|Coconut Flakes|20|0.13|1.4|
+||7|Cocoa Powder|7|0.1|1.06|
+||98|Frozen Wild Blueberries|98|1.01|10.56|
+||178|Banana|257|0.64|6.66|
+||33|Peanut Butter|33|0.31|3.2|
+|
 |13:28|350|Water|||||
+|
 |13:38 & 18:32|2133|Lunch|||||
 |||Whole grain rice linguine|300|300|||
 |||Miso paste|6|6|||
@@ -625,16 +652,18 @@ from Felix seems to not include too much crap.
 |||Garlic|10|12||||
 |||White cabbage|120|120|||
 |||Red onion|89|100|||
-|||Beet root|87|101|||
+|||Beetroot|87|101|||
+|
 |18:32|350|Water|||||
 |20:57|350|Water|||||
+|
 |20:57|427|Rice cakes|||||
 |||Rice cakes|100|100|||
-|||Peanut butter|30|30|||
-|||Banana|297|422|||
+||30|Peanut Butter|30|0.28|2.91|
+||297|Banana|422|1.06|10.93|
 |02:12|350|Water|||||
 
-#### 7:45 Coconut oil
+#### 7:45 Coconut Oil
 
 #### 8:10 Lemon water
 
@@ -666,28 +695,34 @@ Also rinsing and new sprouts
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|10:15||Coconut oil||12|||
-|10:43|400|Lemon water|||||
-|||Lemon juice|41|Half a lemon|||
-|10:43|570|Oat meal|||||
-|||Oats|75|75|||
-|||Flax seeds|31|31|||
-|||Coconut flakes|16|16|||
-|||Cocoa powder|7|7|||
-|||Frozen wild blueberries|79|79|||
-|||Peanut butter|30|30|||
+|10:15||Coconut Oil|12|0.18|1.92|
+|
+|10:43|400|Lemon Water||0.53|5.48|
+||41|Lemon Juice|Half a Lemon|0.53|5.48|
+|
+|10:43|570|Oat Meal|||||
+||75|Oats|75|0.17|1.79|
+||31|Flax Seeds|31|0.16|1.62|
+||16|Coconut Flakes|16|0.11|1.12|
+||7|Cocoa Powder|7|0.1|1.06|
+||79|Frozen Wild Blueberries|79|0.81|8.52|
+||30|Peanut Butter|30|0.28|2.91|
 |||Raisins|61|61|||
 |||Cinnamon|||||
-|12:43|350|Water|||||
+|
+|12:43|350|Water|
+|
 |13:49|1055|Smoothie|||||
-|||Banana|380|610|||||
+||380|Banana|610|1.53|15.8|
 |||Walnuts|6|6|||||
 |||Frozen spinach|126|126|||||
-|||Coconut flakes|20|20|||||
-|||Frozen wild blueberries|86|86|||
-|||Oats|17|17|||
+||20|Coconut Flakes|20|0.13|1.4|
+||86|Frozen Wild Blueberries|86|0.89|9.27|
+||17|Oats|17|0.04|0.41|
+|
 |16:30|320|Water|||||
 |18:30|320|Water|||||
+|
 |18:38|350|Taco filling|||||
 |||Champignon|100|100|||
 |||Shiitake mushrooms|142|150|||
@@ -695,8 +730,8 @@ Also rinsing and new sprouts
 |||Chipotle Chilies in Adobo Sauce|105|105|||
 |||Red onion|84|94|||
 |||Tamari|9|9|||
-|||Garlic|6|12|||
-|||Vegetable bullion|5|5|||
+||10|Garlic|12|0.15|1.62|
+||5|Vegetable Bullion|5|0.09|0.96|
 |18:38|~210|Tortillas|||||
 |||Corn flour|180|180|||
 |18:38|347|Mango salsa|||||
@@ -712,7 +747,7 @@ Also rinsing and new sprouts
 |23:00|550|Water|||||
 |02:11|350|Water|||||
 
-#### 10:15 Coconut oil
+#### 10:15 Coconut Oil
 
 #### 10:43 Lemon water & breakfast
 
@@ -788,28 +823,36 @@ Rinsing the sprouts
 
 |Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
 |---|---|---|---|---|---|---|
-|11:40||Coconut oil||14|||
-|12:10|485|Lemon water|||||
-|||Lemon juice|44|Half a lemon|||
-|12:10|862|Oat meal|||||
-|||Oats|106|106|||
-|||Flax seeds|39|39|||
-|||Coconut flakes|16|16|||
-|||Cocoa powder|8|8|||
-|||Frozen wild blueberries|83|83|||
-|||Peanut butter|30|30|||
-|||Banana|171|254|||
-|||Cinnamon|||||
-|14:25|190|Water|||||
-|14:25|809|Isotonic drink|||||
-|||Iso|45|45|||
-|15:00|~85|Banana|~85|126|||
-|16:10|750|Water|||||
-|18:00|730|Water|||||
-|18:00|654|Potato fries|||||
-|||Potatoes|815|1021|||
+|11:40||Coconut Oil|14|0.21|2.24|
+|
+|12:10|485|Lemon Water||0.53|5.48|
+||44|Lemon Juice|Half a Lemon|0.53|5.48|
+|
+|12:10|862|Oat Meal|||||
+||106|Oats|106|0.24|2.53|
+||39|Flax Seeds|39|0.2|2.04|
+||16|Coconut Flakes|16|0.11|1.12|
+||8|Cocoa Powder|8|0.12|1.21|
+||83|Frozen Wild Blueberries|83|0.86|8.95|
+||30|Peanut Butter|30|0.28|2.91|
+||171|Banana|254|0.64|6.58|
+|
+|14:25|190|Water|
+|
+|14:25|809|Isotonic Drink||1.38|14.46|
+||45|Enervit Isotonic Drink|45|1.38|14.46|
+||764|Water|
+|
+|15:00|~85|Banana|~85|126|0.32|3.26|
+|
+|16:10|750|Water|
+|18:00|730|Water|
+|
+|18:00|654|Potato Fries|||||
+|||Potatoes|815|1021|1.94|19.91|
 |||Felix|124|124|||
 |||Sesame|18|18|||
+|
 |19:14|1434|Wraps|||||
 |||Buckwheat|204|204|||
 |||Carrot|273|294|||
@@ -819,15 +862,19 @@ Rinsing the sprouts
 |||Mustard|40|40|||
 |||Tamari|10|10|||
 |||Lemon juice|6|From breakfast lemon|||||
-|||Garlic|20|25|||
+||20|Garlic|25|0.32|3.37|
+|
 |19:14|390|Sprouts|||||
 |||Green lentil sprouts|50|50|||
 |||Sweet lupine sprouts|50|50|||
+|
 |21:40|200|Water|||||
+|
 |22:48|257|Orange|257|377|||
+|
 |00:15|160|Water|||||
 
-#### 11:40 Coconut oil
+#### 11:40 Coconut Oil
 
 Also rinsing the sprouts.
 
@@ -955,7 +1002,7 @@ So I took the price and the link of the next chili powder that I am going to buy
 |Lemon|[ICA](https://www.ica.se/handla/sok/citron/produkt/citron-ekologisk-ca-100g-klass-1-ica-i-love-eco-id_p_2098318200000724/?s=ica-kvantum-frolunda-id_03553)|✔️|1.05|10.95|1 fruit|
 |Sesame Seeds|ICA|✔️|0.57|5.99|100g|
 |Tofu Smoked|ICA|✔️|1.18|12.39|100g|
-|Potatoes|ICA|✔️|0.38|4|100g|
+|Potatoes|ICA|✔️|0.19|1.95|100g|
 |Sunflower Seeds|ICA|✔️|0.57|5.99|100g|
 |Banana|[ICA](https://www.ica.se/handla/sok/banan/produkt/banan-ca-765g-ica-i-love-eco-id_p_2098401100000214/?s=ica-kvantum-frolunda-id_03553)|✔️|0.25|2.59|100g|
 |Orange|[ICA](https://www.ica.se/handla/sok/banan/produkt/apelsin-ica-ca-310g-id_p_2092317400000724/?s=ica-kvantum-frolunda-id_03553)|✔️|0.41|4.3|100g|
