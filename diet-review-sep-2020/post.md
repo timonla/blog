@@ -986,6 +986,7 @@ Of course there are also a lot of foods fortified with Calcium, that you can use
 |Day|EUR|SEK|
 |---|---|---|
 |Spices|5.32|55.6|
+|Supplements|1.96|20.44|
 ||||
 |Monday|8.79|91.69|
 |Tuesday|15.77|164.65|
@@ -995,7 +996,9 @@ Of course there are also a lot of foods fortified with Calcium, that you can use
 |Saturday|23.49|245.72|
 |Sunday|15.3|159.44|
 ||||
-|Average|14.91|155.75|
+|Average|15.19|158.67|
+
+Cost per calorie: 3625kcal
 
 ### Conclusions
 
