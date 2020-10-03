@@ -837,14 +837,14 @@ Rinsing the sprouts
 
 ### Sunday 27.09.2020
 
-|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
 |---|---|---|---|---|---|---|
 |11:40||Coconut Oil|14|0.21|2.24|
 |
 |12:10|485|Lemon Water||0.53|5.48|
 ||44|Lemon Juice|Half a Lemon|0.53|5.48|
 |
-|12:10|862|Oat Meal|||||
+|12:10|862|Oat Meal||2.45|25.34|
 ||106|Oats|106|0.24|2.53|
 ||39|Flax Seeds|39|0.2|2.04|
 ||16|Coconut Flakes|16|0.11|1.12|
@@ -859,36 +859,38 @@ Rinsing the sprouts
 ||45|Enervit Isotonic Drink|45|1.38|14.46|
 ||764|Water|
 |
-|15:00|~85|Banana|~85|126|0.32|3.26|
+|15:00|~85|Banana|126|0.32|3.26|
 |
 |16:10|750|Water|
 |18:00|730|Water|
 |
-|18:00|654|Potato Fries|||||
+|18:00|654|Potato Fries||2.46|25.45|
 ||815|Potatoes|1021|1.94|19.91|
 ||124|Ketchup|124|0.42|4.46|
 ||18|Sesame Seeds|18|0.1|1.08|
 |
-|19:14|1434|Wraps|||||
-|||Buckwheat|204|204|||
-|||Carrot|273|294|||
-|||Polka beets|279|313|||
+|19:14|1434|Wraps||5.46|57.18|
+||204|Buckwheat|204|1.29|13.44|
+||273|Carrot|294|1.06|11.14|
+||279|Polka beets|313|1.06|11.24|
 ||183|Red Onion|199|0.88|9.13|
-|||Tahini|49|49|||
-|||Mustard|40|40|||
+||49|Tahini|49|0.46|4.76|
+||40|Mustard|40|0.22|2.32|
 ||10|Tamari|10|0.17|1.78|
-|||Lemon juice|6|From breakfast lemon|||||
+||6|Lemon juice|From Breakfast Lemon|||
 ||20|Garlic|25|0.32|3.37|
 |
-|19:14|390|Sprouts|||||
+|19:14|390|Sprouts||0.94|9.82|
 ||50|Green Lentil Sprouts|50|0.45|4.7|
 ||50|Sweet Lupine Sprouts|50|0.49|5.12|
 |
-|21:40|200|Water|||||
+|21:40|200|Water|
 |
-|22:48|257|Orange|257|377|||
+|22:48|257|Orange|377|1.55|16.21|
 |
-|00:15|160|Water|||||
+|00:15|160|Water|
+|
+|Total|7006|||15.3|159.44|
 
 #### 11:40 Coconut Oil
 
@@ -964,6 +966,8 @@ Also rinsed the sprouts.
 
 ### Results
 
+## Nutrients
+
 TODO: fix with updated results.
 ![Cronometer results](assets/cronometer-week-result.jpg)
 
@@ -979,6 +983,22 @@ almond butter again.
 Otherwise, enough Vitamin E is easily achieved with a daily dose of spinach in a smoothie
 and there is a good amount of Calcium in sesame.
 Of course there are also a lot of foods fortified with Calcium, that you can use.
+
+## Cost
+
+|Day|EUR|SEK|
+|---|---|---|
+|Spices|5.32|55.6|
+|
+|Monday|8.79|91.69|
+|Tuesday|15.77|164.65|
+|Wednesday|11.52|120.09|
+|Thursday|12.61|131.99|
+|Friday|11.59|121.07|
+|Saturday|23.49|245.72|
+|Sunday|15.3|159.44|
+|
+|Average|14.91|155.75|
 
 ### Conclusions
 
