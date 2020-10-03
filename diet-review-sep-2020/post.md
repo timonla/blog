@@ -568,14 +568,13 @@ Also soaked some new sprouts.
 ||35|Raisins|35|0.21|2.24|
 ||12|Walnuts|12|0.32|3.4|
 |
-|16:23|1946|Lunch||6.61|69.21|
-||537|Water|
+|16:23|1946|Lunch||6.01|62.91|
 ||300|Whole Grain Rice Pasta|300|2.19|22.95|
 ||6|Miso paste|6|0.14|1.48|
 ||10|Tamari|10|0.17|1.78|
 ||115|Smoked Tofu|115|1.36|14.25|
 ||15|Sesame Seeds|15|0.09|0.9|
-||210|Leek|220|1.2|12.6|
+||105|Leek|110|0.6|6.3|
 ||10|Garlic|12|0.15|1.62|
 ||120|White Cabbage|120|0.35|3.6|
 ||89|Red Onion|100|0.44|4.59|
@@ -594,7 +593,7 @@ Also soaked some new sprouts.
 |
 |00:09|350|Water|
 |
-|Total|6161|||13.21|138.29|
+|Total|6161|||12.61|131.99|
 
 #### 7:43 Coconut Oil
 
@@ -630,7 +629,7 @@ from Felix seems to not include too much crap.
 
 ### Friday 25.09.2020
 
-|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
 |---|---|---|---|---|---|---|
 |07:45||Coconut Oil|12|0.18|1.92|
 |
@@ -638,7 +637,7 @@ from Felix seems to not include too much crap.
 ||41|Lemon Juice|Half a Lemon|0.53|5.48|
 |||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
 |
-|10:08|835|Oat Meal|||||
+|10:08|835|Oat Meal||2.59|27|
 ||102|Oats|102|0.24|2.44|
 ||32|Flax Seeds|32|0.16|1.68|
 ||20|Coconut Flakes|20|0.13|1.4|
@@ -647,28 +646,31 @@ from Felix seems to not include too much crap.
 ||178|Banana|257|0.64|6.66|
 ||33|Peanut Butter|33|0.31|3.2|
 |
-|13:28|350|Water|||||
+|13:28|350|Water|
 |
-|13:38 & 18:32|2133|Lunch|||||
-|||Whole grain rice linguine|300|300|||
-|||Miso paste|6|6|||
-|||Tamari|10|10|||
-|||Smoked tofu|115|115|||
-|||Sesame Seeds|15|15|||
-|||Leek|210|220|||
-|||Garlic|10|12||||
-|||White cabbage|120|120|||
-||100|Red Onion|100|0.44|4.59|
-|||Beetroot|87|101|||
+|13:38 & 18:32|2133|Lunch||6.01|62.91|
+||300|Whole Grain Rice Pasta|300|2.19|22.95|
+||6|Miso paste|6|0.14|1.48|
+||10|Tamari|10|0.17|1.78|
+||115|Smoked Tofu|115|1.36|14.25|
+||15|Sesame Seeds|15|0.09|0.9|
+||105|Leek|110|0.6|6.3|
+||10|Garlic|12|0.15|1.62|
+||120|White Cabbage|120|0.35|3.6|
+||89|Red Onion|100|0.44|4.59|
+||87|Beetroot|101|0.52|5.44|
 |
-|18:32|350|Water|||||
-|20:57|350|Water|||||
+|18:32|350|Water|
+|20:57|350|Water|
 |
-|20:57|427|Rice cakes|||||
-|||Rice cakes|100|100|||
+|20:57|427|Rice Cakes||2.14|22.26|
+||100|Rice Cakes|100|0.8|8.42|
 ||30|Peanut Butter|30|0.28|2.91|
 ||297|Banana|422|1.06|10.93|
-|02:12|350|Water|||||
+|
+|02:12|350|Water|
+|
+|Total|5746|||11.59|121.07|
 
 #### 7:45 Coconut Oil
 
@@ -700,7 +702,7 @@ Also rinsing and new sprouts
 
 ### Saturday 26.09.2020
 
-|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
 |---|---|---|---|---|---|---|
 |10:15||Coconut Oil|12|0.18|1.92|
 |
@@ -753,6 +755,8 @@ Also rinsing and new sprouts
 |19:47||Magnum almond|||||
 |23:00|550|Water|||||
 |02:11|350|Water|||||
+|
+|Total||||||
 
 #### 10:15 Coconut Oil
 
