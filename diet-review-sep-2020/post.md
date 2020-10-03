@@ -214,7 +214,12 @@ This is also the time I take my supplements, so I don't forget them.
 
 <img alt="Breakfast" src="assets/monday-breakfast.jpg" width="500">
 
-TODO: write about the different kinds of grains that you can use (cooked oats, overnight oats, spelt flakes, rice flakes, cornflakes, buckwheat cooked, buckwheat sprouted).
+My go-to breakfast at the moment is oat meal.
+I have experimented with numerous other carbohydrate sources over the years,
+rice flakes, rice dosas, spelt flakes, corn flakes, cooked buckwheat, sprouted buckwheat, buckwheat tortillas
+cooked oats, overnight oats, ...
+For a while now I am settled on oats.
+They are easiest to use, taste amazing and I am able to digest them well.
 
 Sprouting legumes and other seeds is a great way to get something fresh into your diet without
 having to invest in, in my option, pointless iceberg lettuce or something similar.
@@ -224,6 +229,9 @@ growing.
 On Sunday evening I soaked 30g of green lentils, 30g of sweet lupines, 20g of chickpeas
 (all dry weights).
 They will all take about 3 days, until they have my preferred size.
+Since the experiment I switched to soaking the legumes during the day.
+This gives them 12 more hours before I eat them and they will be even tastier.
+How long sprouts will take to grow, depends a lot on the temperature in your kitchen or wherever you store them.
 
 If you are interested in sprouting your own beans, it's super easy to get started.
 All you need are some big jars and some nets.
@@ -231,7 +239,8 @@ I cannot emphasize enough how much of a waste of money it is to buy sprouting ki
 Just buy mason jars and the lids.
 Even if you later decide sprouting is not for you, they can be of great use in the kitchen.
 
-TODO: add links to jars and lids
+I use [these lids](https://www.amazon.de/gp/product/B07B3Q336D/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+and [these glasses](https://www.bormiolirocco.com/en/product/700/jar-50-3-4-oz-quattro-stagioni) in 1l and 1.5l sizes.
 
 #### 13:28 Snack
 
@@ -410,22 +419,17 @@ I got impatient and ate a few corn cakes :)
 
 <img alt="Frozen Beans" src="assets/tuesday-frozen-beans.jpg" width="500">
 
-#### 18:10 Dinner 1/4
+#### 18:10, 18:50, 19:53 & 20:27 Dinner
 
 <img alt="Dinner one portion" src="assets/tuesday-dinner-single.jpg" width="500">
 
 I don't have this big a dish so I'll split it up in 4 portions like this, that I will eat during the evening.
 
-#### 18:50 Dinner 2/4
-
-#### 19:53 Dinner 3/4
-
-#### 20:27 Dinner 4/4
+This meal was a bit too much.
+The last one felt kind of forced.
+Three portions would have been ideal.
 
 #### 23:52 Going to bed
-
-Three portions would have been ideal.
-The last one felt kind of forced.
 
 ### Wednesday 23.09.2020
 
@@ -1056,7 +1060,7 @@ However, it would not have made sense to do it during this week since the tracki
 quite some time and would have distorted the actual time.
 Maybe use something like [jiffy](https://jiffy.nu/) to track it properly.
 
-## New goals
+## New Goals
 
 * I was hoping the cost of my diet would be below 4000SEK but considering the amount of calories,
 I consumed during the week, I think it's fine.
@@ -1068,6 +1072,12 @@ and rice, beans and co. at [RAPUNZEL](https://shop.rapunzel.de/) and [prohviant]
 * Swap peanut butter for almond butter in the breakfast.
 
 * Remove coconut flakes from breakfast.
+
+* Test Omega-3 index.
+
+* Sprout the flax seeds instead of consuming them blended in the oat meal.
+I consume flax seeds mainly for the Omega-3 and this process is supposed to
+increase its availability.
 
 ## Price List
 
