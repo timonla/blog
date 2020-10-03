@@ -331,7 +331,7 @@ dehydrated.
 ||26|Red Onion|33|0.15|1.52|
 ||4|Garlic|7|0.09|0.94|
 ||8|Potato Starch|8|0.02|0.19|
-||8|Sesame seeds|8|0.05|0.48|
+||8|Sesame Seeds|8|0.05|0.48|
 |
 |12:37|350|Water|
 |
@@ -429,6 +429,7 @@ The last one felt kind of forced.
 
 ### Wednesday 23.09.2020
 
+|Total|5659|||11.52|120.09|
 |Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
 |---|---|---|---|---|---|---|
 |7:28||Coconut Oil|14|0.21|2.24|
@@ -543,7 +544,7 @@ Also soaked some new sprouts.
 
 ### Thursday 24.09.2020
 
-|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
 |---|---|---|---|---|---|---|
 |7:43||Coconut Oil|9|0.14|1.44|
 |
@@ -551,7 +552,7 @@ Also soaked some new sprouts.
 ||37|Lemon Juice|Half a Lemon|0.53|5.48|
 |||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
 |
-|10:34|930|Oat Meal|||||
+|10:34|930|Oat Meal||2.78|29.01|
 ||138|Oats|138|0.32|3.3|
 ||44|Flax Seeds|44|0.22|2.31|
 ||21|Coconut Flakes|21|0.14|1.47|
@@ -563,32 +564,37 @@ Also soaked some new sprouts.
 |12:28|350|Water|
 |15:33|350|Water|
 |
-|15:33|47|Snack|||||
-|||Raisins|35|35|||
-|||Walnuts|12|12|||
+|15:33|47|Snack||0.53|5.64|
+||35|Raisins|35|0.21|2.24|
+||12|Walnuts|12|0.32|3.4|
 |
-|16:23|1946|Lunch|||||
-|||537|Water|||||
-|||Whole grain rice linguine|300|300|||
-|||Miso paste|6|6|||
+|16:23|1946|Lunch||6.61|69.21|
+||537|Water|
+||300|Whole Grain Rice Pasta|300|2.19|22.95|
+||6|Miso paste|6|0.14|1.48|
 ||10|Tamari|10|0.17|1.78|
-|||Smoked tofu|115|115|||
-|||Sesame seeds|15|15|||
+||115|Smoked Tofu|115|1.36|14.25|
+||15|Sesame Seeds|15|0.09|0.9|
 ||210|Leek|220|1.2|12.6|
 ||10|Garlic|12|0.15|1.62|
-|||White cabbage|120|120|||
-|||Red onion|89|100|||
+||120|White Cabbage|120|0.35|3.6|
+||89|Red Onion|100|0.44|4.59|
 ||87|Beetroot|101|0.52|5.44|
-|16:23|350|Water|||||
-|20:55|350|Water|||||
-|20:55|517|Sprouts|||||
+|
+|16:23|350|Water|
+|20:55|350|Water|
+|
+|20:55|517|Sprouts||2.48|26.01|
 ||41|Green Lentil Sprouts|41|0.37|3.85|
 ||40|Sweet Lupine Sprouts|40|0.39|4.1|
-|||Red lentil sprouts|21|21|||
-|||Sunflower seeds|20|20|||
-|||Ketchup|82|82|||
+||21|Red Lentil Sprouts|21|0.12|1.26|
+||20|Sunflower Seeds|20|0.11|1.2|
+||82|Ketchup|82|0.28|2.95|
 ||35|Cashews|35|1.21|12.65|
-|00:09|350|Water|||||
+|
+|00:09|350|Water|
+|
+|Total|6161|||13.21|138.29|
 
 #### 7:43 Coconut Oil
 
@@ -648,11 +654,11 @@ from Felix seems to not include too much crap.
 |||Miso paste|6|6|||
 |||Tamari|10|10|||
 |||Smoked tofu|115|115|||
-|||Sesame seeds|15|15|||
+|||Sesame Seeds|15|15|||
 |||Leek|210|220|||
 |||Garlic|10|12||||
 |||White cabbage|120|120|||
-|||Red onion|89|100|||
+||100|Red Onion|100|0.44|4.59|
 |||Beetroot|87|101|||
 |
 |18:32|350|Water|||||
@@ -729,7 +735,7 @@ Also rinsing and new sprouts
 |||Shiitake mushrooms|142|150|||
 |||Oyster mushrooms|52|75|||
 |||Chipotle Chilies in Adobo Sauce|105|105|||
-|||Red onion|84|94|||
+||84|Red Onion|94|0.41|4.32|
 ||9|Tamari|9|0.15|1.6|
 ||10|Garlic|12|0.15|1.62|
 ||5|Vegetable Bullion|5|0.09|0.96|
@@ -738,7 +744,7 @@ Also rinsing and new sprouts
 |18:38|347|Mango Salsa|||||
 ||250|Frozen Mango|250|1.9|19.95|
 |||Fresh cilantro|23|Half a plant|||
-|||Red onion|53|58|||
+||53|Red Onion|58|0.26|2.66|
 |||Lime juice|15|Half a lime|||
 |18:38|139|Cashew cream|||||
 ||60|Cashews|60|2.07|21.68|
@@ -850,15 +856,15 @@ Rinsing the sprouts
 |18:00|730|Water|
 |
 |18:00|654|Potato Fries|||||
-|||Potatoes|815|1021|1.94|19.91|
-|||Felix|124|124|||
-|||Sesame|18|18|||
+||815|Potatoes|1021|1.94|19.91|
+||124|Ketchup|124|0.42|4.46|
+||18|Sesame Seeds|18|0.1|1.08|
 |
 |19:14|1434|Wraps|||||
 |||Buckwheat|204|204|||
 |||Carrot|273|294|||
 |||Polka beets|279|313|||
-|||Red onion|183|199|||
+||183|Red Onion|199|0.88|9.13|
 |||Tahini|49|49|||
 |||Mustard|40|40|||
 ||10|Tamari|10|0.17|1.78|
@@ -1002,7 +1008,7 @@ So I took the price and the link of the next chili powder that I am going to buy
 |Nutritional Yeast|ICA|❌|2.77|28.98|100g|
 |Lemon|[ICA](https://www.ica.se/handla/sok/citron/produkt/citron-ekologisk-ca-100g-klass-1-ica-i-love-eco-id_p_2098318200000724/?s=ica-kvantum-frolunda-id_03553)|✔️|1.05|10.95|1 fruit|
 |Sesame Seeds|ICA|✔️|0.57|5.99|100g|
-|Tofu Smoked|ICA|✔️|1.18|12.39|100g|
+|Smoked Tofu|ICA|✔️|1.18|12.39|100g|
 |Potatoes|ICA|✔️|0.19|1.95|100g|
 |Sunflower Seeds|ICA|✔️|0.57|5.99|100g|
 |Banana|[ICA](https://www.ica.se/handla/sok/banan/produkt/banan-ca-765g-ica-i-love-eco-id_p_2098401100000214/?s=ica-kvantum-frolunda-id_03553)|✔️|0.25|2.59|100g|
