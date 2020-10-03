@@ -144,19 +144,19 @@ Price: **0.15 EUR/1.55 SEK** per day.
 |Smoked Paprika|377|353|24|0.62|6.5|
 |Basil|216|213|3|0.08|0.85|
 |Rosemary|209|204|5|0.14|1.41|
-|
+|||||||
 |Total|||175|5.32|55.6|
 
 ### Monday 21.09.2020
 
 |Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |7:30||Coconut Oil|12|0.18|1.92|
-|
+|||||||
 |7:50|961|Lemon Water||0.67|6.98|
 ||20|Lemon Juice|Half a Lemon|0.53|5.48|
 |||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
-|
+|||||||
 |9:40|918|Oat Meal||2.8|29.18|
 ||114|Oats|114|0.26|2.73|
 ||53|Flax Seeds|53|0.27|2.78|
@@ -165,11 +165,11 @@ Price: **0.15 EUR/1.55 SEK** per day.
 ||113|Frozen Wild Blueberries|113|1.16|12.18|
 ||149|Banana|230|0.58|5.96|
 ||31|Peanut Butter|31|0.29|3|
-|
+|||||||
 |13:28|63|Snack||0.72|7.53|
 ||47|Raisins|47|0.29|3|
 ||16|Walnuts|16|0.43|4.53|
-|
+|||||||
 |13:50|1293|Lunch||3.59|37.33|
 ||142|Frozen Broccoli|142|0.45|4.7|
 ||150|Frozen Spinach|150|0.71|7.32|
@@ -181,15 +181,15 @@ Price: **0.15 EUR/1.55 SEK** per day.
 ||4|Garlic|7|0.09|0.94|
 ||8|Potato Starch|8|0.02|0.19|
 ||16|Sesame Seeds|16|0.09|0.96|
-|
-|13:50|350|Water|
-|16:43|350|Water|
-|
+|||||||
+|13:50|350|Water||||
+|16:43|350|Water||||
+|||||||
 |20:17|60|Corn Cakes|60|0.83|8.75|
-|
-|20:17|350|Water|
-|22:23|350|Water|
-|
+|||||||
+|20:17|350|Water||||
+|22:23|350|Water||||
+|||||||
 |Total|4695|||8.79|91.69|
 
 #### 7:30 Coconut Oil
@@ -305,13 +305,13 @@ dehydrated.
 ### Tuesday 22.09.2020
 
 |Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |7:13||Coconut Oil|14|0.21|2.24|
-|
+|||||||
 |7:40|973|Lemon Water||0.67|6.98|
 ||19|Lemon Juice|Half a Lemon|0.53|5.48|
 |||Pukka Peppermint & Licorice|One bag|0.14|1.5|
-|
+|||||||
 |10:27|803|Oat Meal||2.41|25.1|
 ||104|Oats|104|0.24|2.49|
 ||32|Flax Seeds|32|0.16|1.68|
@@ -320,7 +320,7 @@ dehydrated.
 ||94|Frozen Wild Blueberries|94|0.97|10.13|
 ||140|Banana|209|0.52|5.41|
 ||34|Peanut Butter|34|0.32|3.29|
-|
+|||||||
 |12:37|1146|Lunch||3.55|36.85|
 ||142|Frozen Broccoli|142|0.45|4.7|
 ||150|Frozen Spinach|150|0.71|7.32|
@@ -332,17 +332,17 @@ dehydrated.
 ||4|Garlic|7|0.09|0.94|
 ||8|Potato Starch|8|0.02|0.19|
 ||8|Sesame Seeds|8|0.05|0.48|
-|
-|12:37|350|Water|
-|
+|||||||
+|12:37|350|Water||||
+|||||||
 |15:30|794|Isotonic Drink||1.29|13.5|
 ||42|Enervit Isotonic Drink|42|1.29|13.5|
-||750|Water|
-|
-|16:57|730|Water|
-|
+||750|Water|||||
+|||||||
+|16:57|730|Water||||
+|||||||
 |17:30|25|Corn cakes|25|0.35|3.65|
-|
+|||||||
 |18:10|2232|Dinner||7.29|76.33|
 ||632|Potatoes|743|1.41|14.49|
 ||328|Leek|362|2.06|21.72|
@@ -353,10 +353,10 @@ dehydrated.
 ||117|White Beans|85|0.81|8.49|
 ||40|Pumpkin seeds|40|0.73|7.6|
 ||4|Bicarbonate|4|0.03|0.34|
-|
-|19:53|350|Water|
-|23:52|350|Water|
-|
+|||||||
+|19:53|350|Water||||
+|23:52|350|Water||||
+|||||||
 |Total|7753|||15.77|164.65|
 
 #### 7:13 Coconut Oil
@@ -429,15 +429,14 @@ The last one felt kind of forced.
 
 ### Wednesday 23.09.2020
 
-|Total|5659|||11.52|120.09|
 |Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |7:28||Coconut Oil|14|0.21|2.24|
-|
+|||||||
 |7:55|979|Lemon Water||0.63|6.48|
 ||33|Lemon Juice|Half a Lemon|0.53|5.48|
 |||Peppermint Tea|One Bag|0.1|1|
-|
+|||||||
 |9:50|773|Oat Meal||2.56|26.67|
 ||98|Oats|98|0.23|2.34|
 ||38|Flax Seeds|38|0.19|1.99|
@@ -447,9 +446,9 @@ The last one felt kind of forced.
 ||80|Banana|120|0.3|3.11|
 ||32|Peanut Butter|32|0.3|3.1|
 ||87|Frozen mango|87|0.66|6.94|
-|
-|11:40|350|Water|
-|
+|||||||
+|11:40|350|Water||||
+|||||||
 |13:58|1116|Lunch||4.16|43.24|
 ||142|Frozen Broccoli|142|0.45|4.7|
 ||150|Frozen Spinach|150|0.71|7.32|
@@ -461,29 +460,29 @@ The last one felt kind of forced.
 ||4|Garlic|7|0.09|0.94|
 ||8|Potato Starch|8|0.02|0.19|
 ||19|Cashews|19|0.66|6.87|
-|
-|15:50|350|Water|
-|17:46|350|Water|
-|
+|||||||
+|15:50|350|Water||||
+|17:46|350|Water||||
+|||||||
 |17:55|747|Smoothie||2.4|25.1|
 ||137|Banana|214|0.54|5.54|
 ||23|Coconut Flakes|23|0.15|1.61|
 ||161|Frozen Mango|161|1.22|12.85|
 ||126|Frozen Banana|~197|0.49|5.1|
-|
+|||||||
 |20:38|244|Sprouts||0.86|9.07|
 ||20|Chickpea Sprouts|20|0.13|1.4|
 ||30|Sweet Lupine Sprouts|30|0.29|3.07|
 ||30|Green Lentil Sprouts|30|0.27|2.82|
 ||10|Tamari|10|0.17|1.78|
-||2|PiriPiri|2||
-|
-|20:38|350|Water|
-|
+||2|PiriPiri|2|||
+|||||||
+|20:38|350|Water||||
+|||||||
 |21:38|50|Corn Cakes|50|0.7|7.29|
-|
-|23:48|350|Water|
-|
+|||||||
+|23:48|350|Water||||
+|||||||
 |Total|5659|||11.52|120.09|
 
 #### 7:28 Coconut Oil
@@ -545,13 +544,13 @@ Also soaked some new sprouts.
 ### Thursday 24.09.2020
 
 |Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |7:43||Coconut Oil|9|0.14|1.44|
-|
+|||||||
 |8:05|971|Lemon Water||0.67|6.98|
 ||37|Lemon Juice|Half a Lemon|0.53|5.48|
 |||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
-|
+|||||||
 |10:34|930|Oat Meal||2.78|29.01|
 ||138|Oats|138|0.32|3.3|
 ||44|Flax Seeds|44|0.22|2.31|
@@ -560,14 +559,14 @@ Also soaked some new sprouts.
 ||111|Frozen Wild Blueberries|111|1.14|11.97|
 ||160|Banana|233|0.58|6.04|
 ||28|Peanut Butter|28|0.26|2.71|
-|
-|12:28|350|Water|
-|15:33|350|Water|
-|
+|||||||
+|12:28|350|Water||||
+|15:33|350|Water||||
+|||||||
 |15:33|47|Snack||0.53|5.64|
 ||35|Raisins|35|0.21|2.24|
 ||12|Walnuts|12|0.32|3.4|
-|
+|||||||
 |16:23|1946|Lunch||6.01|62.91|
 ||300|Whole Grain Rice Pasta|300|2.19|22.95|
 ||6|Miso paste|6|0.14|1.48|
@@ -579,10 +578,10 @@ Also soaked some new sprouts.
 ||120|White Cabbage|120|0.35|3.6|
 ||89|Red Onion|100|0.44|4.59|
 ||87|Beetroot|101|0.52|5.44|
-|
-|16:23|350|Water|
-|20:55|350|Water|
-|
+|||||||
+|16:23|350|Water||||
+|20:55|350|Water||||
+|||||||
 |20:55|517|Sprouts||2.48|26.01|
 ||41|Green Lentil Sprouts|41|0.37|3.85|
 ||40|Sweet Lupine Sprouts|40|0.39|4.1|
@@ -590,9 +589,9 @@ Also soaked some new sprouts.
 ||20|Sunflower Seeds|20|0.11|1.2|
 ||82|Ketchup|82|0.28|2.95|
 ||35|Cashews|35|1.21|12.65|
-|
-|00:09|350|Water|
-|
+|||||||
+|00:09|350|Water||||
+|||||||
 |Total|6161|||12.61|131.99|
 
 #### 7:43 Coconut Oil
@@ -630,13 +629,13 @@ from Felix seems to not include too much crap.
 ### Friday 25.09.2020
 
 |Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |07:45||Coconut Oil|12|0.18|1.92|
-|
+|||||||
 |8:10|951|Lemon Water||0.67|6.98|
 ||41|Lemon Juice|Half a Lemon|0.53|5.48|
 |||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
-|
+|||||||
 |10:08|835|Oat Meal||2.59|27|
 ||102|Oats|102|0.24|2.44|
 ||32|Flax Seeds|32|0.16|1.68|
@@ -645,9 +644,9 @@ from Felix seems to not include too much crap.
 ||98|Frozen Wild Blueberries|98|1.01|10.56|
 ||178|Banana|257|0.64|6.66|
 ||33|Peanut Butter|33|0.31|3.2|
-|
-|13:28|350|Water|
-|
+|||||||
+|13:28|350|Water||||
+|||||||
 |13:38 & 18:32|2133|Lunch||6.01|62.91|
 ||300|Whole Grain Rice Pasta|300|2.19|22.95|
 ||6|Miso paste|6|0.14|1.48|
@@ -659,17 +658,17 @@ from Felix seems to not include too much crap.
 ||120|White Cabbage|120|0.35|3.6|
 ||89|Red Onion|100|0.44|4.59|
 ||87|Beetroot|101|0.52|5.44|
-|
-|18:32|350|Water|
-|20:57|350|Water|
-|
+|||||||
+|18:32|350|Water||||
+|20:57|350|Water||||
+|||||||
 |20:57|427|Rice Cakes||2.14|22.26|
 ||100|Rice Cakes|100|0.8|8.42|
 ||30|Peanut Butter|30|0.28|2.91|
 ||297|Banana|422|1.06|10.93|
-|
-|02:12|350|Water|
-|
+|||||||
+|02:12|350|Water||||
+|||||||
 |Total|5746|||11.59|121.07|
 
 #### 7:45 Coconut Oil
@@ -703,12 +702,12 @@ Also rinsing and new sprouts
 ### Saturday 26.09.2020
 
 |Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |10:15||Coconut Oil|12|0.18|1.92|
-|
+|||||||
 |10:43|400|Lemon Water||0.53|5.48|
 ||41|Lemon Juice|Half a Lemon|0.53|5.48|
-|
+|||||||
 |10:43|570|Oat Meal||2|20.92|
 ||75|Oats|75|0.17|1.79|
 ||31|Flax Seeds|31|0.16|1.62|
@@ -717,9 +716,9 @@ Also rinsing and new sprouts
 ||79|Frozen Wild Blueberries|79|0.81|8.52|
 ||30|Peanut Butter|30|0.28|2.91|
 ||61|Raisins|61|0.37|3.9|
-|
-|12:43|350|Water|
-|
+|||||||
+|12:43|350|Water||||
+|||||||
 |13:49|1055|Smoothie||3.34|34.73|
 ||380|Banana|610|1.53|15.8|
 ||6|Walnuts|6|0.16|1.7|
@@ -727,10 +726,10 @@ Also rinsing and new sprouts
 ||20|Coconut Flakes|20|0.13|1.4|
 ||86|Frozen Wild Blueberries|86|0.89|9.27|
 ||17|Oats|17|0.04|0.41|
-|
-|16:30|320|Water|
-|18:30|320|Water|
-|
+|||||||
+|16:30|320|Water||||
+|18:30|320|Water||||
+|||||||
 |18:38|350|Taco filling||9.25|96.91|
 ||100|Champignon|100|1.57|16.48|
 ||142|Shiitake mushrooms|150|4.2|43.95|
@@ -740,27 +739,27 @@ Also rinsing and new sprouts
 ||9|Tamari|9|0.15|1.6|
 ||10|Garlic|12|0.15|1.62|
 ||5|Vegetable Bullion|5|0.09|0.96|
-|
+|||||||
 |18:38|~210|Tortillas||1.15|12.06|
 ||180|Corn flour|180|1.15|12.06|
-|
+|||||||
 |18:38|347|Mango Salsa||3.26|34.09|
 ||250|Frozen Mango|250|1.9|19.95|
 ||23|Fresh Coriander|Half a plant|0.72|7.5|
 ||53|Red Onion|58|0.26|2.66|
 ||15|Lime Juice|Half a Lime|0.38|3.98|
-|
+|||||||
 |18:38|139|Cashew cream||2.83|29.63|
 ||60|Cashews|60|2.07|21.68|
 ||26|Lime Juice|1 Lime|0.76|7.95|
-|
-|19:21|320|Water|
-|
+|||||||
+|19:21|320|Water||||
+|||||||
 |19:47|71|Magnum almond|1 Ice Cream|0.95|9.98|
-|
-|23:00|550|Water|
-|02:11|350|Water|
-|
+|||||||
+|23:00|550|Water||||
+|02:11|350|Water||||
+|||||||
 |Total|5352|||23.49|245.72|
 
 #### 10:15 Coconut Oil
@@ -838,12 +837,12 @@ Rinsing the sprouts
 ### Sunday 27.09.2020
 
 |Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |11:40||Coconut Oil|14|0.21|2.24|
-|
+|||||||
 |12:10|485|Lemon Water||0.53|5.48|
 ||44|Lemon Juice|Half a Lemon|0.53|5.48|
-|
+|||||||
 |12:10|862|Oat Meal||2.45|25.34|
 ||106|Oats|106|0.24|2.53|
 ||39|Flax Seeds|39|0.2|2.04|
@@ -852,23 +851,23 @@ Rinsing the sprouts
 ||83|Frozen Wild Blueberries|83|0.86|8.95|
 ||30|Peanut Butter|30|0.28|2.91|
 ||171|Banana|254|0.64|6.58|
-|
-|14:25|190|Water|
-|
+|||||||
+|14:25|190|Water||||
+|||||||
 |14:25|809|Isotonic Drink||1.38|14.46|
 ||45|Enervit Isotonic Drink|45|1.38|14.46|
-||764|Water|
-|
+||764|Water|||||
+|||||||
 |15:00|~85|Banana|126|0.32|3.26|
-|
-|16:10|750|Water|
-|18:00|730|Water|
-|
+|||||||
+|16:10|750|Water||||
+|18:00|730|Water||||
+|||||||
 |18:00|654|Potato Fries||2.46|25.45|
 ||815|Potatoes|1021|1.94|19.91|
 ||124|Ketchup|124|0.42|4.46|
 ||18|Sesame Seeds|18|0.1|1.08|
-|
+|||||||
 |19:14|1434|Wraps||5.46|57.18|
 ||204|Buckwheat|204|1.29|13.44|
 ||273|Carrot|294|1.06|11.14|
@@ -879,17 +878,17 @@ Rinsing the sprouts
 ||10|Tamari|10|0.17|1.78|
 ||6|Lemon juice|From Breakfast Lemon|||
 ||20|Garlic|25|0.32|3.37|
-|
+|||||||
 |19:14|390|Sprouts||0.94|9.82|
 ||50|Green Lentil Sprouts|50|0.45|4.7|
 ||50|Sweet Lupine Sprouts|50|0.49|5.12|
-|
-|21:40|200|Water|
-|
+|||||||
+|21:40|200|Water||||
+|||||||
 |22:48|257|Orange|377|1.55|16.21|
-|
-|00:15|160|Water|
-|
+|||||||
+|00:15|160|Water||||
+|||||||
 |Total|7006|||15.3|159.44|
 
 #### 11:40 Coconut Oil
@@ -989,7 +988,7 @@ Of course there are also a lot of foods fortified with Calcium, that you can use
 |Day|EUR|SEK|
 |---|---|---|
 |Spices|5.32|55.6|
-|
+||||
 |Monday|8.79|91.69|
 |Tuesday|15.77|164.65|
 |Wednesday|11.52|120.09|
@@ -997,7 +996,7 @@ Of course there are also a lot of foods fortified with Calcium, that you can use
 |Friday|11.59|121.07|
 |Saturday|23.49|245.72|
 |Sunday|15.3|159.44|
-|
+||||
 |Average|14.91|155.75|
 
 ### Conclusions
@@ -1012,7 +1011,6 @@ quite some time and would have distorted the actual time.
 Maybe use something like [jiffy](https://jiffy.nu/) to track it properly.
 
 ## New goals
-
 
 ## Prices
 
