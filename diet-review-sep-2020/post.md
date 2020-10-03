@@ -25,6 +25,8 @@ is simply not detailed enough.
 
 I will not put any additional effort or research into what I am eating during this week.
 This, I hope, will give you an idea and some inspiration, what is achievable with very little effort.
+I will not use any special kitchen utensils, the most exotic thing, being a blender, to make the results reproducible
+for virtually anyone.
 
 (I will try to put slightly more effort into making the food look appealing in the photos though.)
 
@@ -394,7 +396,7 @@ I just wait a bit and start eating.
 
 Cut everything, put it into the pot and boil until the potatoes are good but not too soft.
 The beet root will be still a bit crunchy.
-Eating raw beet root is not for the light hearted.
+Eating raw beet root is not for the light-hearted.
 I challenge you to try to eat a big beet root raw.
 So make sure that you slice them in really small chunks.
 Basil, ginger, turmeric, vegetable broth, smoked paprika
@@ -965,21 +967,57 @@ Also rinsed the sprouts.
 
 ## Nutrients
 
-TODO: fix with updated results.
-<img alt"Cronometer results" src="assets/cronometer-week-result.jpg">
+I slightly adjusted the default cronometer settings for my increased calorie intake.
+However, I left it on the default settings for micro nutrients.
 
-The main nutrients that are missing are Vitamin E and Calcium.
-I have tracked these before and am aware that these can be tricky if you don't know what
-foods contain significant amounts of them.
-Both of them can be fixed easily with swapping out the peanut butter in the oat meal with
-almond butter.
-It's more expensive than peanut butter but it's superior in basically all nutrients.
-I have not been using it recently, as it is more difficult to get here.
-This experiment however, has unveiled that I should go the extra step and switch to
-almond butter again.
-Otherwise, enough Vitamin E is easily achieved with a daily dose of spinach in a smoothie
-and there is a good amount of Calcium in sesame.
-Of course there are also a lot of foods fortified with Calcium, that you can use.
+Here are the result for the week:
+
+<img alt="Cronometer results" src="assets/cronometer-week-result.jpg">
+
+### Macro Nutrients
+
+I don't watch how many carbs I consume and am really not concerned about getting enough protein.
+My weight is quite steady at 69kg and I am not aiming at becoming Mr. Olympia.
+Most of my training is cycling and also there I don't try to build huge muscles.
+
+I try to keep the fat to a reasonable amount, which can get tricky when burning a lot of calories.
+
+Looking at what contributed to the fat over the week, the coconut flakes in the breakfast and smoothies
+are quite up there considering how little they do for taste.
+I have tried the oat meal without the coconut flakes since looking at the numbers and don't miss it.
+
+<img alt="Cronometer Fat Results" src="assets/cronometer-week-fat.png">
+
+### Omega-3 to Omega-6 Ratio
+
+The ratio during this week seems to be about 1:2.
+Of course it would be better to get closer to 1:1 but 1:2 is already quite good.
+
+### Vitamin E and Calcium Fix
+
+The week results show an slight deficiency in Vitamin E and Calcium.
+
+Both of them should not be any problem if you are eating processed foods as you will find many foods
+fortified with them.
+
+They can be a bit more tricky, if you don't consume processed foods, and don't know what foods contain
+significant amounts of them.
+This week I at a coconut milk sauce on three days.
+A prominent alternative for this would be a sesame sauce, the tahini of which already covers about
+a third of the daily need.
+
+A great Vitamin E source is spinach.
+A daily portion in your smoothie and you get more than enough.
+
+I plan to swap the peanut butter in my oat meal with almond butter.
+Almond butter is a bit more difficult to get in Gothenburg, which is why have been using peanut butter
+in the oat meal lately.
+From a taste and nutrient perspective however, I think I will be okay with the additional effort
+and also price, almond butter is significantly more expensive than peanut butter.
+
+This is how the nutrient result would look with almond butter in the breakfast:
+
+<img alt="Cronometer results" src="assets/cronometer-week-result-with-almond.png">
 
 ## Cost
 
@@ -998,27 +1036,45 @@ Of course there are also a lot of foods fortified with Calcium, that you can use
 ||||
 |Average|15.19|158.67|
 
-Cost per calorie: 3625kcal
+Average daily calories: **3625kcal**
+
+The daily costs have a git outlier in saturday.
+While I will have days with more expensive meals from time to time, or even dine out,
+extreme days like this don't happen with a weekly basis.
+
+A 140 SEK/day diet would cost about 4200SEK per month.
 
 ### Conclusions
 
 Having not tracked my food intake in a while I can definitely say that I did not miss it.
 Especially documenting everything in here and calculating the cost was no fun :).
-This week however, seemed like a good representation for my diet in the recent weeks.
+This week however, seemed like a good enough representation for my diet in the recent weeks.
 So I am at least happy with how that turned out.
-Would be good to track time in the kitchen and actual time eating the next time.
+
+It would be good to track time in the kitchen and actual time eating the next time.
 However, it would not have made sense to do it during this week since the tracking and taking photos took
 quite some time and would have distorted the actual time.
 Maybe use something like [jiffy](https://jiffy.nu/) to track it properly.
 
 ## New goals
 
-## Prices
+* I was hoping the cost of my diet would be below 4000SEK but considering the amount of calories,
+I consumed during the week, I think it's fine.
+I had already planned to source staples of my diet, both from a cost and packaging perspective,
+of the internet, where I can buy them in bulk.
+I would like to buy spices at [pikantum](https://www.pikantum.de/),
+and rice, beans and co. at [RAPUNZEL](https://shop.rapunzel.de/) and [prohviant](https://www.prohviant.de/).
 
-I try to add the name of the store where I bought it and if there is no link
+* Swap peanut butter for almond butter in the breakfast.
+
+* Remove coconut flakes from breakfast.
+
+## Price List
+
+I added the name of the store where I bought the food and if there is no link
 I will provide the link to an alternative store.
 Please notice that the prices and package sizes can differ.
-Also ICA online prices seem to differ from what I pay in the store.
+Also ICA online prices seem to be higher than what I pay in the store.
 
 I bought my chili and coriander powder somewhere in India and they are not organic.
 So I took the price and the link of the next chili powder that I am going to buy.
