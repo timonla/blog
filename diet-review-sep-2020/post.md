@@ -133,54 +133,64 @@ Price: **0.15 EUR/1.55 SEK** per day.
 
 ### Spices
 
-|Spice|Start weight in g|End weight in g|Delta in g|Price EUR|Price SEK|
+|Spice|Start weight in g|End weight in g|Delta in g|EUR|SEK|
 |---|---|---|---|---|---|
-|Cinnamon|189|179||||
-|Nutritional Yeast|591|489||||
-|Chili|288|282||||
-|Coriander|296|289||||
-|Ginger|286|276||||
-|Turmeric|305|297||||
-|Smoked Paprika|377|353||||
-|Basil|216|213||||
-|Rosemary|209|204||||
+|Cinnamon|189|179|10|0.57|6|
+|Nutritional Yeast|591|489|102|2.83|29.56|
+|Chili|288|282|6|0.36|3.75|
+|Coriander|296|289|7|0.11|1.12|
+|Ginger|286|276|10|0.34|3.56|
+|Turmeric|305|297|8|0.27|2.85|
+|Smoked Paprika|377|353|24|0.62|6.5|
+|Basil|216|213|3|0.08|0.85|
+|Rosemary|209|204|5|0.14|1.41|
+|
+|Total|||175|5.32|55.6|
 
 ### Monday 21.09.2020
 
-|Time|Total weight in g|Dish/Ingredient|Ingredient weight consumed in g|Ingredient bought|Price EUR|Price SEK|
+|Time|Consumed in g|Dish/Ingredient|Bought in g|EUR|SEK|
 |---|---|---|---|---|---|---|
-|7:30||Coconut oil||12|||
-|7:50|961|Lemon water|||||
-|||Lemon juice|20|Half a lemon|||
-|||Pukka Peppermint&Licorice||One bag|||
-|9:40|918|Oat meal|||||
-|||Oats|114|114|||
-|||Flax seeds|53|53|||
-|||Coconut flakes|21|21|||
-|||Cocoa powder|7|7|||
-|||Frozen wild blueberries|113|113|||
-|||Banana|149|230|||
-|||Peanut butter|31|31||
-|||Cinnamon|||||
-|13:28|63|Snack|||||
-|||Raisin|47|47|||
-|||Walnuts|16|16|||
-|13:50|1293|Lunch|||||
-|||Frozen broccoli|142|142|||
-|||Frozen spinach|150|150|||
-|||Red thai rice|167|167|||
-|||Red lentils|50|50|||
-|||Coconut milk|133|133|||
-|||Vegetable broth|2|2|||
-|||Red onion|26|33|||
-|||Garlic|4|7|||
-|||Potato starch|8|8|||
-|||Sesame seeds|16|16|||
+|7:30||Coconut Oil|12|0.18|1.92|
+|
+|7:50|961|Lemon Water||0.67|6.98|
+||20|Lemon Juice|Half a Lemon|0.53|5.48|
+|||Pukka Peppermint & Licorice|One Bag|0.14|1.5|
+|
+|9:40|918|Oat Meal||2.8|29.18|
+||114|Oats|114|0.26|2.73|
+||53|Flax Seeds|53|0.27|2.78|
+||21|Coconut Flakes|21|0.14|1.47|
+||7|Cocoa Powder|7|0.1|1.06|
+||113|Frozen Wild Blueberries|113|1.16|12.18|
+||149|Banana|230|0.58|5.96|
+||31|Peanut Butter|31|0.29|3|
+|
+|13:28|63|Snack||0.72|7.53|
+||47|Raisins|47|0.29|3|
+||16|Walnuts|16|0.43|4.53|
+|
+|13:50|1293|Lunch||3.65|37.94|
+||142|Frozen Broccoli|142|0.51|5.31|
+||150|Frozen Spinach|150|0.71|7.32|
+||167|Red Thai Rice|167|1.34|14.01|
+||50|Red Lentils|50|0.29|3|
+||133|Coconut Milk|133|0.41|4.31|
+||2|Vegetable Bullion|2|0.04|0.38|
+||26|Red Onion|33|0.15|1.52|
+||4|Garlic|7|0.09|0.94|
+||8|Potato Starch|8|0.02|0.19|
+||16|Sesame Seeds|16|0.09|0.96|
+|
 |13:50|350|Water|||||
 |16:43|350|Water|||||
-|20:17|60|Corn Cakes|60|60|||
+|
+|20:17|60|Corn Cakes|60|0.83|8.75|
+|
 |20:17|350|Water|||||
 |22:23|350|Water|||||
+|
+|Total|4695|||8.85|92.3|
 
 #### 7:30 Coconut oil
 
@@ -928,13 +938,16 @@ I will provide the link to an alternative store.
 Please notice that the prices and package sizes can differ.
 Also ICA online prices seem to differ from what I pay in the store.
 
+I bought my chili and coriander powder somewhere in India and they are not organic.
+So I took the price and the link of the next chili powder that I am going to buy.
+
 |Name|Bought At/Link|Organic|EUR|SEK|Unit|
 |---|---|---|---|---|---|
 |Ceylon Cinnamon|ICA/[HappyGreen](https://www.happygreen.se/mother-earth-kanel-ceylon-mald-125-g)|✔️|5.73|60|100g|
 |Ceylon Ginger|ICA/[HappyGreen](https://www.happygreen.se/mother-earth-ingefara-ceylon-mald-250-g)|✔️|3.4|35.6|100g|
 |Turmeric|ICA/[HappyGreen](https://www.happygreen.se/mother-earth-gurkmeja-indien-1-kg-ekologisk)|✔️|3.4|35.6|100g|
-|Chili|||||100g|
-|Coriander|||||100g|
+|Chili|Don't recall/[pikantum](https://www.pikantum.de/Bio-Chilis-gemahlen-extrem-scharf-250g)|✔️|5.97|62.48|100g|
+|Coriander|Don't recall/[pikantum](https://www.pikantum.de/Koriander-gemahlen-250g)|✔️|1.53|16.01|100g|
 |Smoked Paprika|[amazon](https://www.amazon.de/gp/product/B00S9U843I/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)|❌|2.59|27.1|100g|
 |Basil|[amazon](https://www.amazon.de/gp/product/B073WY64G8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)|✔️|2.7|28.25|100g|
 |Rosemary|[amazon](https://www.amazon.de/gp/product/B073WWT8WG/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)|✔️|2.7|28.25|100g|
@@ -944,10 +957,10 @@ Also ICA online prices seem to differ from what I pay in the store.
 |Tofu Smoked|ICA|✔️|1.18|12.39|100g|
 |Potatoes|ICA|✔️|0.38|4|100g|
 |Sunflower Seeds|ICA|✔️|0.57|5.99|100g|
-|Banana|[ICA](https://www.ica.se/handla/sok/banan/produkt/banan-ca-765g-ica-i-love-eco-id_p_2098401100000214/?s=ica-kvantum-frolunda-id_03553)|✔️|0.2|2.1|100g|
+|Banana|[ICA](https://www.ica.se/handla/sok/banan/produkt/banan-ca-765g-ica-i-love-eco-id_p_2098401100000214/?s=ica-kvantum-frolunda-id_03553)|✔️|0.25|2.59|100g|
 |Orange|[ICA](https://www.ica.se/handla/sok/banan/produkt/apelsin-ica-ca-310g-id_p_2092317400000724/?s=ica-kvantum-frolunda-id_03553)|✔️|0.41|4.3|100g|
 |Frozen Wild Blueberries|[ICA](https://www.ica.se/handla/sok/fryst%20bl/produkt/blabar-fryst-250g-krav-ica-i-love-eco-id_p_7318690125037/?s=ica-kvantum-frolunda-id_03553)|✔️|1.03|10.78|100g|
-|Frozen Broccoli|[ICA](https://www.ica.se/handla/sok/broccoli/produkt/broccoli-ekologisk-800-g-ica-id_p_7318690131007/?s=ica-kvantum-frolunda-id_03553)|✔️|0.36|3.74|100g|Probably wrong price  because online price
+|Frozen Broccoli|[ICA](https://www.ica.se/handla/sok/broccoli/produkt/broccoli-ekologisk-800-g-ica-id_p_7318690131007/?s=ica-kvantum-frolunda-id_03553)|✔️|0.32|3.31|100g|
 |Chioggia beet|ICA|✔️|0.34|3.59|100g|
 |Carrots|[ICA](https://www.ica.se/handla/sok/mor/produkt/morotter-500g-krav--ica-i-love-eco-id_p_7318690131960/?s=ica-kvantum-frolunda-id_03553)|✔️|0.36|3.79|100g|
 |Frozen Spinach|ICA|✔️|0.47|4.88|100g|
